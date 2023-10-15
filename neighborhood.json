@@ -1,0 +1,188 @@
+[
+  {
+    "nhoodID": 1,
+    "nhood": "Alamo Square",
+    "webLink": "http://en.wikipedia.org/wiki/Alamo_Square,_San_Francisco",
+    "desc": "Alamo Square is a residential neighborhood in San Francisco, California with a park of the same name. Located in the Western Addition, its boundaries are Buchanan Street on the east, Turk Street on the north, Baker Street on the west, and Page Street Street on the south.",
+    "ttd": "17 minutes",
+	"rent": "$1,968",
+	"walk": 97,
+	"transit": 82,
+	"bike": 81,
+    "arts": [
+			"The Independent",
+			"Madrone Art Bar",
+			"Emporium Arcade Bar",
+			"Emporium SF"
+		],
+    "restaurants": [
+			"Nopa",
+			"Bar Crudo",
+			"The Mill",
+			"Souvla",
+			"Fly Bar & Restaurant",
+			"Little Star Pizza",
+			"The Independent",
+			"Brenda's French Soul Food",
+			"Barvale",
+			"Alamo Square Seafood Grill"
+		],
+	"groceries": [
+			"Bi-Rite Market",
+			"Milk Drunk"
+		],
+	"cafes": [
+			"The Mill",
+			"Lucinda's Deli and more",
+			"Boba Guys",
+			"Alamo Square Cafe"
+		],
+	"shopping": [
+			"Rare Device",
+			"Original Vinyl"
+		],
+	"nightLife": [
+			"Horsefeather",
+			"The Independent",
+			"Madrone Art Bar",
+			"Emporium SF"
+		],
+	"zipCodes": [
+			"94115",
+			"94117"
+		]
+  },
+  {
+    "nhoodID": 2,
+    "nhood": "Anza Vista",
+    "webLink": "http://en.wikipedia.org/wiki/Anza_Vista,_San_Francisco",
+    "desc": "Anza Vista is a neighborhood in the Western Addition district of San Francisco, California.[1] It is named after Juan Bautista de Anza, the first Spanish explorer to reach San Francisco.",
+    "ttd": "17 minutes",
+	"rent": "$2,514",
+	"walk": 95,
+	"transit": 74,
+	"bike": 76,
+    "arts": [],
+    "restaurants": [
+			"Subway",
+			"Chipotle Mexican Grill"
+		],
+	"groceries": [
+			"Pearl Market",
+			"Kaiser Farmers Market"
+		],
+	"cafes": [
+			"Starbucks",
+			"Kaiser Permanente"
+		],
+	"shopping": [
+			"PetSmart",
+			"Wlagreens",
+			"Sleep Number",
+			"Spirit Halloween"
+		],
+	"nightLife": [],
+	"zipCodes": [
+			"94115",
+			"94118"
+		]
+  },
+  {
+    "nhoodID": 3,
+    "nhood": "Aquatic Park-Fort Mason",
+    "webLink": "https://www.niche.com/places-to-live/n/aquatic-park---ft-mason-san-francisco-ca/",
+    "desc": "Aquatic Park / Ft. Mason is a neighborhood in San Francisco, California with a population of 543. Aquatic Park / Ft. Mason is in San Francisco County and is one of the best places to live in California. Living in Aquatic Park / Ft. Mason offers residents a dense urban feel and most residents Rent their homes. In Aquatic Park / Ft. Mason there are a lot of bars, restaurants, coffee shops, and parks. Many young professionals and retirees live in Aquatic Park / Ft. Mason and residents tend to be liberal. The public schools in Aquatic Park / Ft. Mason are highly rated.",
+    "ttd": "13 minutes",
+	"rent": "$3,151",
+	"walk": 94,
+	"transit": 78,
+	"bike": 76,
+    "arts": [
+            "Fort Mason Center for Arts",
+			"Cartoon Art Museum",
+			"Gallery 308",
+			"Magic Theatre",
+			"Franklin Bowles Galleries",
+			"Dennis Rae Fine Art",
+			"Maritime Museum",
+			"Galileo Academy George White Field",
+			"Fort Mason Flix Drive-In",
+			"Vitkovsky Fine Art",
+			"Keane Eyes",
+			"Museo Italo Americano Gallery",
+			"Embark Gallery",
+			"The Mexican Museum"],
+    "restaurants": [
+			"The Interval at Long Now",
+			"The Buena Vista01",
+			"Equator Coffees & Teas",
+			"Off the Grid: Fort Mason Center",
+			"Ghirardelli Chocolate Marketplace",
+			"Restaurant Gary Danko",
+			"Palette Tea House",
+			"Radhaus",
+			"San Francisco Brewing Co.",
+			"McCormick & Kuleto's Seafood & Steaks",
+			"Ghirardelli-On-The-Go at Ghirardelli Square",
+			"The Cheese School of San Francisco",
+			"Grandeho's Kamekyo",
+			"Mozzeria",
+			"Pico Latin Street Food",
+			"Pacific Eatery",
+			"Bluxome Street Winery",
+			"Amirah"
+		],
+	"groceries": [
+			"The Original Ghirardelli rice",
+			"VOM FASS Oils Vinegars Spirits",
+			"North Point Market"
+		],
+	"cafes": [
+			"The Interval at Long Now",
+			"Equator Coffees and Teas",
+			"The Cheese School of San Francisco"
+		],
+	"shopping": [
+			"Lola of North Beach",
+			"Yap Stores",
+			"Gigi and Rose",
+			"Jackson and Polk",
+			"ElizabethW",
+			"Helpers Home Bazaar",
+			"Mashka Jewelry"
+		],
+	"nightLife": [
+            "The Interval at Long Now",
+			"The Buena Vista01",
+			"Radhaus",
+			"San Francisco Brewing Co."
+    ],
+	"zipCodes": [
+			"94123"
+		]
+  },
+  {
+    "nhoodID": 4,
+    "nhood": "Balboa Terrace",
+    "webLink": "http://en.wikipedia.org/wiki/Neighborhoods_in_San_Francisco#Balboa_Terrace",
+    "desc": "Balboa Terrace is a small residential neighborhood in southwestern San Francisco bounded by Junipero Serra Boulevard, Monterey Boulevard, Aptos Avenue and Ocean Avenue along the southern edge of the exclusive St. Francis Wood development.",
+    "ttd": "24 minutes",
+	"rent": "$1,787",
+	"walk": 80,
+	"transit": 70,
+	"bike": 65,
+    "arts": [],
+    "restaurants": [],
+	"groceries": [
+			"Golden Gate Wine Cellars"
+		],
+	"cafes": [],
+	"shopping": [
+			"Comic Outpost"
+		],
+	"nightLife": [],
+	"zipCodes": [
+			"94127"
+		]
+  }
+]
