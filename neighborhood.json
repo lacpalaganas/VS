@@ -51,7 +51,9 @@
 			"94115",
 			"94117"
 		],
-	"easiestParking": 1
+	"easiestParking": 1,
+	"mostAffordable": 1,
+	"nearDowntown": 0
   },
   {
     "nhoodID": 2,
@@ -87,7 +89,9 @@
 			"94115",
 			"94118"
 		],
-	"easiestParking": 1
+	"easiestParking": 1,
+	"mostAffordable": 1,
+	"nearDowntown": 1
   },
   {
     "nhoodID": 3,
@@ -162,7 +166,9 @@
 	"zipCodes": [
 			"94123"
 		],
-	"easiestParking": 0
+	"easiestParking": 0,
+	"mostAffordable": 0,
+	"nearDowntown": 1
   },
   {
     "nhoodID": 4,
@@ -187,6 +193,8 @@
 	"zipCodes": [
 			"94127"
 		],
-	"easiestParking": 0
+	"easiestParking": 0,
+	"mostAffordable": 1,
+	"nearDowntown": 1
   }
 ]
