@@ -196,5 +196,87 @@
 	"easiestParking": 0,
 	"mostAffordable": 1,
 	"nearDowntown": 1
+  },
+	{
+    "nhoodID": 5,
+    "nhood": "Bayview",
+    "webLink": "http://en.wikipedia.org/wiki/Neighborhoods_in_San_Francisco#Bayview",
+    "desc": "The Bayview is known for its friendly and diverse residents, warm weather and inviting vistas, community gardens, independent businesses, artists' community, and rich history as an African American and working-class neighborhood.",
+    "ttd": "24 minutes",
+	"rent": "$1,533",
+	"walk": 84,
+	"transit": 68,
+	"bike": 67,
+    "arts": [
+	    "Bayview Opera House Ruth",
+			"Jazz Room",
+			"The African Outlet",
+			"The Party"
+    ],
+    "restaurants": [
+	    "Thee Babies Bake",
+			"Tato",
+			"All Good Pizza",
+			"Speakeasy Ales & Lagers",
+			"Craftsman and Wolves - The Den",
+			"Las Isletas",
+			"Krispy Krunchy Chicken",
+			"Old Skool Cafe",
+			"La Laguna",
+			"Auntie April's Chicken n Waffles",
+			"Fox and Lion Bread",
+			"Gratta Wines",
+			"Huli Huli Hawaiian Grill",
+			"Subway",
+			"Soo Fong Restaurant",
+			"Roadhouse Coffee Shop",
+			"McDonald's",
+			"Sunday Gather",
+			"Tacos El Primo",
+			"Las Palmas San Francisco",
+			"A. Tarantino and Sons",
+			"City Lunch Retaurant",
+			"Cafe Envy",
+			"Golden City Inn Chinese Food"
+    ],
+	"groceries": [
+			"Foods Co.",
+			"Super Save Market",
+			"Lee's Food Market",
+			"Evergood Fine Foods",
+			"Good Eggs",
+			"SABA Live Poultry",
+			"Extranomical Tours"
+		],
+	"cafes": [
+		"The Craftsman and Wolves",
+			"Bloomstock",
+			"Starbucks",
+			"Old Skool Cafe",
+			"Fox and Lion Bread",
+			"Roadhouse Coffee Shop",
+			"Sunday Gather",
+			"Cafe envy",
+			"Peet's Coffee and Tea"
+	],
+	"shopping": [
+			"Pet Camp",
+			"Walgreens",
+			"Bayview Plaza",
+			"FrankTex",
+			"Gaos Group"
+		],
+	"nightLife": [
+		"Speakeasy Ales and Lagers",
+			"Gratta wines",
+			"Cafe Envy",
+			"Jazz Room"
+	],
+	"zipCodes": [
+			"94124"
+		],
+	"easiestParking": 0,
+	"mostAffordable": 1,
+	"nearDowntown": 1
   }
 ]
