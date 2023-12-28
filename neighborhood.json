@@ -498,5 +498,792 @@
       "easiestParking":0,
       "mostAffordable":1,
       "nearDowntown":1
+   },
+   {
+      "nhoodID":9,
+      "nhood":"Candlestick Point State Recreation Area",
+      "webLink":"https://en.wikipedia.org/wiki/Candlestick_Point_State_Recreation_Area",
+      "desc":"Candlestick Point State Recreation Area is a state park unit of California, United States, providing an urban protected area on San Francisco Bay. The park is located at the southeastern tip of San Francisco immediately south of Hunters Point and 2 miles north of Sierra Point in Brisbane",
+      "ttd":"26 minutes",
+      "rent":"$1,481",
+      "walk":41,
+      "transit":64,
+      "bike":38,
+      "arts":[
+         
+      ],
+      "restaurants":[
+         
+      ],
+      "groceries":[
+         
+      ],
+      "cafes":[
+         
+      ],
+      "shopping":[
+         
+      ],
+      "nightLife":[
+         
+      ],
+      "zipCodes":[
+         "94134"
+      ],
+      "easiestParking":0,
+      "mostAffordable":1,
+      "nearDowntown":1
+   },
+   {
+      "nhoodID":10,
+      "nhood":"Castro",
+      "webLink":"https://en.wikipedia.org/wiki/Castro_District,_San_Francisco",
+      "desc":"The Castro District, in Eureka Valley, is synonymous with gay culture. Revelers often spill onto the sidewalks at numerous bars, like Twin Peaks Tavern, whose floor-to-ceiling windows were revolutionary when it opened in 1972. The lavish Castro Theatre and the GLBT Historic Museum are also found here, as are homey restaurants and adult shops. On Market Street, 19th-century F-line streetcars head to Fisherman’s Wharf.",
+      "ttd":"21 minutes",
+      "rent":"$2,127",
+      "walk":99,
+      "transit":89,
+      "bike":75,
+      "arts":[
+         "Castro Theatre",
+         "Ruby's Clay Studio and Gallery",
+         "Midnight Sun",
+         "GLBT HIstory Museum",
+         "Beaux",
+         "Lookout",
+         "Q Bar",
+         "Art Attack SF",
+         "Spark Arts",
+         "INFORUM at the Castro",
+         "Frameline Box Office"
+      ],
+      "restaurants":[
+         "Dinosaurs",
+         "Castro Theatre",
+         "Super Duper Burgers",
+         "Anchor Oyster Bar",
+         "Frances",
+         "Starbelly",
+         "Hi Tops",
+         "The Castro Fountain",
+         "Cafe De Casa",
+         "Reveille Coffee Co.",
+         "Blush! Wine Bar",
+         "Bhoga",
+         "Sushi Time",
+         "Santeria",
+         "Hot Cookie",
+         "Lark",
+         "La Mediateranee",
+         "Kasa Indian Eatery",
+         "The Edge",
+         "Last Call Bar",
+         "Harvey's",
+         "Fable",
+         "QualiTea",
+         "Rossi's Delicatessen"
+      ],
+      "groceries":[
+         "Castro Farmers Market",
+         "Giddy",
+         "Mollie Stone's",
+         "Buffalo Whole Food and Grain",
+         "k D's Grog N' Groc"
+      ],
+      "cafes":[
+         "Philz Coffee",
+         "Reveille Coffee Co.",
+         "QualiTea",
+         "Project Juice",
+         "Five Star Truffles",
+         "Castro Coffee Company",
+         "Peet's coffee and Tea",
+         "The cove on Castro",
+         "Le Marais Bakery",
+         "Cafe Mystique",
+         "Castro Tarts",
+         "Squat and Gobble Cafe"
+      ],
+      "shopping":[
+         "Eye Gotcha Optometric",
+         "Dog Eared Books",
+         "Urban Flowers",
+         "Body Clothing",
+         "Jeffrey's Natural Pet",
+         "D&H Sustainable",
+         "Local Take",
+         "Sui Generi's Consignment",
+         "Rolo",
+         "MudPuppy's",
+         "Skin on Market",
+         "MASH Transit",
+         "Not Just Flowers",
+         "Urban Eyes Optometry",
+         "Levi's Store",
+         "CVS Specialitty",
+         "Crystal Way",
+         "Rock Hard",
+         "Walgreens",
+         "Sunglass Hut",
+         "Does Your Mother Know",
+         "Clobba",
+         "For Your Eyes Only Optometry"
+      ],
+      "nightLife":[
+         "Hi Tops",
+         "Swirl on Castro",
+         "Blush! Wine Bar",
+         "Bhoga",
+         "Lark",
+         "Midnight Sun",
+         "The Edge",
+         "Last Call Bar",
+         "Fable Beaux",
+         "Moby Dick",
+         "440 Castro",
+         "Twin Peaks Tavern",
+         "Blind Butcher",
+         "Lookout",
+         "Toad Hall",
+         "Q Bar"
+      ],
+      "zipCodes":[
+         "94114"
+      ],
+      "easiestParking":0,
+      "mostAffordable":1,
+      "nearDowntown":1
+   },
+   {
+      "nhoodID":11,
+      "nhood":"Cathedral Hill",
+      "webLink":"http://en.wikipedia.org/wiki/Neighborhoods_in_San_Francisco#Cathedral_Hill",
+      "desc":"Cathedral Hill is a neighborhood and a hill, in the Western Addition district of San Francisco, California.",
+      "ttd":"11 minutes",
+      "rent":"$2,200",
+      "walk":98,
+      "transit":92,
+      "bike":84,
+      "arts":[
+         "Opera Plaza Cinema",
+         "Audium",
+         "Butterfly Lounge",
+         "The 1881"
+      ],
+      "restaurants":[
+         "Limoncello",
+         "Tommy's Joynt",
+         "Akira Japanese Restaurant",
+         "1608 Bistro",
+         "Max's Opera Cafe",
+         "Wok Shop Cafe",
+         "Village Pizzeria",
+         "Round Table Pizza",
+         "Piece of Heaven",
+         "Leonore's Deli & Taqueria",
+         "Cool Cravings",
+         "The 1881"
+      ],
+      "groceries":[
+         "BevMo!",
+         "USA Market",
+         "A & M Liquor"
+      ],
+      "cafes":[
+         "Peet's coffee and Tea",
+         "Cafe Pacific Plaza",
+         "Piece of Heaven",
+         "Cool Cravings"
+      ],
+      "shopping":[
+         "Books",
+         "Walgreens",
+         "Verizon Wireless",
+         "Rosebowl Florist and Wine",
+         "Colour Drop",
+         "A New LEaf Florist"
+      ],
+      "nightLife":[
+         "Tommy's Joynt",
+         "Butterfly Lounge"
+      ],
+      "zipCodes":[
+         "94109"
+      ],
+      "easiestParking":0,
+      "mostAffordable":1,
+      "nearDowntown":1
+   },
+   {
+      "nhoodID":12,
+      "nhood":"Cayuga",
+      "webLink":"https://www.niche.com/places-to-live/n/cayuga-san-francisco-ca/",
+      "desc":"Cayuga is a neighborhood in San Francisco, California with a population of 7,328. Cayuga is in San Francisco County. Living in Cayuga offers residents an urban suburban mix feel and most residents own their homes. In Cayuga there are a lot of bars, restaurants, coffee shops, and parks. Many young professionals live in Cayuga and residents tend to be liberal. The public schools in Cayuga are above average.",
+      "ttd":"19 minutes",
+      "rent":"$1,704",
+      "walk":91,
+      "transit":89,
+      "bike":62,
+      "arts":[
+         "Francisco Studios",
+         "El Tapacio Night Club",
+         "Sons of Cayuga"
+      ],
+      "restaurants":[
+         "Tao Sushi",
+         "Pacitas Salvadorean",
+         "Little Joe's Pizza",
+         "Taqueria Guadalajara",
+         "Pineapples",
+         "TS Cafe",
+         "Beijing Restaurant",
+         "Taqueria Reinas",
+         "Crazy Pepper",
+         "Club Bottoms Up",
+         "Turo Cafe and Grill",
+         "Teazzert Pho You",
+         "Gentilly",
+         "The Salad Place and Rotisserie",
+         "Yo Soy Cafe Guatemalteco",
+         "Sippin WineBar",
+         "Freshito",
+         "Deli Man"
+      ],
+      "groceries":[
+         "Mike's Liquors",
+         "Safeway"
+      ],
+      "cafes":[
+         "Pineapples",
+         "Teazzert Pho You",
+         "TS Cafe",
+         "Yo Soy Cafe Guatemalteco"
+      ],
+      "shopping":[
+         "Stevens Books",
+         "Chavez's Fine Watch Repair"
+      ],
+      "nightLife":[
+         "Club Bottoms Up",
+         "Sippin Wine Bar",
+         "El Tapatio Night Club"
+      ],
+      "zipCodes":[
+         "94112"
+      ],
+      "easiestParking":0,
+      "mostAffordable":1,
+      "nearDowntown":1
+   },
+   {
+      "nhoodID":13,
+      "nhood":"Chinatown",
+      "webLink":"https://en.wikipedia.org/wiki/Chinatown,_San_Francisco",
+      "desc":"The Chinatown centered on Grant Avenue and Stockton Street in San Francisco, California, (Chinese: 唐人街; pinyin: tángrénjiē; Jyutping: tong4 jan4 gaai1) is the oldest Chinatown in North America and one of the largest Chinese enclaves outside Asia.",
+      "ttd":"2 minutes",
+      "rent":"$1,063",
+      "walk":100,
+      "transit":100,
+      "bike":68,
+      "arts":[
+         "Escape SF",
+         "BEtable",
+         "Comfort Women Statue",
+         "Chinese Culture Center",
+         "Lovell's Antique Gallery",
+         "Kung Pao Kosher Comedy",
+         "Michael Fine Art and Antique",
+         "Chinatown's Childhood",
+         "Invisible Bike LOLcat mural",
+         "41 Ross",
+         "Stylers Art Gallery"
+      ],
+      "restaurants":[
+         "Red Blossom Tea Company",
+         "Vesuvio Cafe",
+         "Hinodeya Downtown",
+         "Sababa",
+         "Mister Jiu's",
+         "Z & Y Restaurant",
+         "R & G Lounge",
+         "Good Mong Kok Bakery",
+         "Cityview Restaurant",
+         "Vital Tea Leaf",
+         "Chapel HillCoffee Co.",
+         "Muracci's Japanese Curry",
+         "Enjoy Vegetarian",
+         "Eatern Bakery",
+         "Golden Star Vietnamese",
+         "Dragon Papa Dessert",
+         "Yin Du Wonton Noodle",
+         "Golden Gate Bakery",
+         "Parallel 37",
+         "Golden Gate Fortune Cookies",
+         "AA Bakery & Cafe",
+         "Vital Tea Leaf",
+         "Li Po Cocktail Lounge",
+         "Hermanos Coffee + Juice",
+         "Hosue of Nanking"
+      ],
+      "groceries":[
+         "Duk Hing Chines Deli",
+         "Dong Hing Supermarket",
+         "Sun Sun Trading Co.",
+         "Man Sung Market",
+         "Gold Corn Trading Co.",
+         "Gum Shing Market",
+         "Sun Sang Market",
+         "San Francisco Poultry",
+         "ABC Supermarket",
+         "Hang Fung Tai Corporation",
+         "Nan Hai Corporation",
+         "Mei Sheng Market",
+         "Wayne's Liquor",
+         "Sheng Hing Market",
+         "World Ginseng Center",
+         "Ming Lee Trading",
+         "Sunny Land Produce",
+         "Long Hua Grocery Store"
+      ],
+      "cafes":[
+         "Red Blossom Tea Company",
+         "Yifang Tawin Fruit Tea",
+         "Blue Bottle Coffee",
+         "Vital Tea Leaf",
+         "Home",
+         "Chapel Hill Coffee Co.",
+         "Vital Tea Leaf",
+         "Hermanos Coffee + Juice",
+         "Boba Butt Tea House",
+         "Good luck Market",
+         "Little Swan Bakery Cafe",
+         "iCafe San Francisco",
+         "Dim Sum corner",
+         "Cool Tea Bar",
+         "Juicy Fruit",
+         "Latte Express 5",
+         "Aroma Tea Shop",
+         "Quickly",
+         "Sweetheart Cafe",
+         "Cafe Honolulu",
+         "Schilling & Co.",
+         "Matcha Cafe Maiko",
+         "By Me Boba Tea",
+         "Royaltea"
+      ],
+      "shopping":[
+         "CityLights Bookstore",
+         "China Bazaar",
+         "CVS Pharmacy",
+         "Canton Bazaar",
+         "Old Shanghai",
+         "Peking Bazaar",
+         "Asian Image",
+         "World of Magnets",
+         "Lucky Dragon Gift Shop",
+         "Oriental Treasures",
+         "Asian Renaissance",
+         "Hall Madden",
+         "Clarion Mucis Center",
+         "Chinatown Bargain Depot",
+         "Fashion House",
+         "Fashion express",
+         "Ho Tai Printing",
+         "Linda Boutique"
+      ],
+      "nightLife":[
+         "Vesuvio Cafe",
+         "R & G Lounge",
+         "Moon Gate Lounge",
+         "Li Po Cocktail Lounge",
+         "Bow Bow Cocktail Lounge",
+         "Z & Y Bistro",
+         "Grasslands Bar and Lounge",
+         "Buddha Lounge",
+         "Red's Place",
+         "EZ5 Inc.",
+         "750 REstaurant and Bar",
+         "Hotel San Francisco",
+         "Lion's Den Lounge and Bar",
+         "JCB Tasting Lounge",
+         "Kung Pao Kosher Comedy",
+         "Hilton San Francisco 757"
+      ],
+      "zipCodes":[
+         "94108",
+         "94133"
+      ],
+      "easiestParking":0,
+      "mostAffordable":1,
+      "nearDowntown":1
+   },
+   {
+      "nhoodID":15,
+      "nhood":"Civic Center",
+      "webLink":"http://en.wikipedia.org/wiki/Civic_Center,_San_Francisco,_California",
+      "desc":"The Civic Center in San Francisco, California, is an area located a few blocks north of the intersection of Market Street and Van Ness Avenue that contains many of the city's largest government and cultural institutions. It has two large plazas (Civic Center Plaza and United Nations Plaza) and a number of buildings in classical architectural style.",
+      "ttd":"11 minutes",
+      "rent":"$2,156",
+      "walk":99,
+      "transit":100,
+      "bike":98,
+      "arts":[
+         "Asian Art Museum",
+         "Davies Symphony Hall",
+         "SFJAZZ Center",
+         "War Memorial Opera House",
+         "Orpheum Theatre",
+         "New Conservatory",
+         "Mr. Tipple's Recording",
+         "Rickshaw Stop",
+         "Sydney Goldstein",
+         "Bill Graham Civic",
+         "SOundBox",
+         "Zellerbach Rehearsal Hall",
+         "Kanbar Performing Arts",
+         "Double L Excentric",
+         "42nd St Moon",
+         "Shn",
+         "Dennis Gallagher Arts",
+         "City Box Office",
+         "Journal Biulding Artist Residency",
+         "Wattis Room",
+         "Chanticleer"
+      ],
+      "restaurants":[
+         "SFJAZZ Center",
+         "Dumpling Home",
+         "Zuni Cafe",
+         "Arsicault Bakery",
+         "Urban Bowls",
+         "Orpheum Theatre",
+         "Nojo",
+         "Robin",
+         "Linden Room",
+         "Smuggler's Cove",
+         "Akna",
+         "DragonEats",
+         "Hotel Biron",
+         "RT Rotisserie",
+         "Fermentation Lab",
+         "Ananda Fuara",
+         "The Beer Hall",
+         "RickShaw Stop",
+         "Arbor",
+         "Absinthe Brasserie & Bar",
+         "Nightbird",
+         "Mong Thu Cafe",
+         "Golden Era Vegan",
+         "Hayes ValleyBakeworks",
+         "Espetus"
+      ],
+      "groceries":[
+         "Arlequin Wine Merchant",
+         "Heart of City Farmers",
+         "LittleJohn's Candies"
+      ],
+      "cafes":[
+         "Philz Coffee",
+         "Project Juice",
+         "Johnny Doughnuts",
+         "Bi-Rite Cafe",
+         "Sunday at the Museum",
+         "KitTea",
+         "Starbucks",
+         "City Hall Cafe",
+         "Gateway Croissant",
+         "Ma'Velous Coffee and Little",
+         "All Star Cafe",
+         "Javelancia Cafe",
+         "Mint Cafe City Hall",
+         "Coffee Smith",
+         "Nina's Cafe",
+         "Urbean",
+         "United Nations Cafe",
+         "The Coffeesmith",
+         "Crossroad Pizzeria",
+         "Cafe 450 Eurest Dining"
+      ],
+      "shopping":[
+         "Maker & Moss",
+         "MAC Modern Appealing",
+         "The Green Arcade",
+         "Market Street Cycles",
+         "Garrett Leight California",
+         "Minimal",
+         "Civic Center Market",
+         "Walgreens",
+         "Mejuri",
+         "Fresh Flower & Gift Shop",
+         "Pladra Flagship Store",
+         "Optometrists-Irene Koga OD",
+         "Gangs of San Francisco",
+         "Elizabeth's Flowers"
+      ],
+      "nightLife":[
+         "Linden Room",
+         "Smuggler's cove",
+         "Hotel Biron",
+         "Fermentation Lab",
+         "Mr. Tipple's Recording",
+         "The Beer Hall",
+         "RickShaw Stop",
+         "Phonobar",
+         "B-side",
+         "Hazel Southern Bar and Kitchen",
+         "Sugar Lounge",
+         "The Hot Spot",
+         "Shovels Bar-Sf",
+         "Ebb & Flow",
+         "CockBlock",
+         "The Crystal Ship",
+         "GaMeBoi SF"
+      ],
+      "zipCodes":[
+         "94102"
+      ],
+      "easiestParking":0,
+      "mostAffordable":1,
+      "nearDowntown":1
+   },
+   {
+      "nhoodID":16,
+      "nhood":"Clarendon Heights",
+      "webLink":"http://en.wikipedia.org/wiki/Neighborhoods_in_San_Francisco#Clarendon_Heights",
+      "desc":"The Clarendon Heights neighborhood is in the central part of San Francisco, to the north of Twin Peaks and east of Mount Sutro. It stretches down to Corbett Avenue or Market Street, and Clarendon Avenue borders the north and west side.",
+      "ttd":"29 minutes",
+      "rent":"$2,542",
+      "walk":60,
+      "transit":69,
+      "bike":51,
+      "arts":[
+         ""
+      ],
+      "restaurants":[
+         "Twin Peaks"
+      ],
+      "groceries":[
+         ""
+      ],
+      "cafes":[
+         ""
+      ],
+      "shopping":[
+         ""
+      ],
+      "nightLife":[
+         "Twin Peaks"
+      ],
+      "zipCodes":[
+         "94114",
+         "94117",
+         "94131"
+      ],
+      "easiestParking":0,
+      "mostAffordable":1,
+      "nearDowntown":1
+   },
+   {
+      "nhoodID":17,
+      "nhood":"Cole Valley",
+      "webLink":"https://en.wikipedia.org/wiki/Cole_Valley,_San_Francisco",
+      "desc":"Cole Valley is a small neighborhood in San Francisco, California. It borders Golden Gate Park to the north, Haight-Ashbury to the northeast, The Castro to the east, and Twin Peaks to the south. Near Kezar Stadium, Cole Valley is the smallest neighborhood in the city.",
+      "ttd":"23 minutes",
+      "rent":"$2,630",
+      "walk":97,
+      "transit":70,
+      "bike":81,
+      "arts":[
+         "Sfpins.org"
+      ],
+      "restaurants":[
+         "Beit Rima Carl Street",
+         "The Ice Cream Bar",
+         "Zazie",
+         "Padrecito",
+         "InoVino",
+         "Kezar Pub",
+         "Bite Me Sandwiches",
+         "Taboun",
+         "Reverie Coffee Cafe",
+         "Kezar Bar & Restaurant",
+         "Lava Java",
+         "Bambino's Ristorante",
+         "Crepes on Cole",
+         "North Beach Pizza",
+         "Grandeho's Kamekyo",
+         "CreoLa"
+      ],
+      "groceries":[
+         "Say Cheese",
+         "Luke's Local",
+         "Val de Cole Wines and Spirits"
+      ],
+      "cafes":[
+         "Wooden Coffee Shop",
+         "Reverie Coffee Cafe",
+         "Lava Java",
+         "Peet's Coffee and Tea"
+      ],
+      "shopping":[
+         "Free Gold Watch",
+         "Pharmaca Integrative",
+         "Cole Valley Pets",
+         "Green Pawz",
+         "Avenue Cyclery",
+         "Tantrum",
+         "Mad Kat",
+         "Americal Cyclery Too"
+      ],
+      "nightLife":[
+         "InoVino",
+         "Kezar Pub",
+         "Finnegans Wake",
+         "Kezar Bar & Restaurant",
+         "CreoLa"
+      ],
+      "zipCodes":[
+         "94117"
+      ],
+      "easiestParking":0,
+      "mostAffordable":1,
+      "nearDowntown":1
+   },
+   {
+      "nhoodID":18,
+      "nhood":"Corona Heights",
+      "webLink":"http://en.wikipedia.org/wiki/Corona_Heights,_San_Francisco",
+      "desc":"Corona Heights is a neighborhood in San Francisco, California, just north of Market Street and Eureka Valley. Corona Heights is often considered part of the Castro and Upper Market areas.",
+      "ttd":"24 minutes",
+      "rent":"$1,997",
+      "walk":94,
+      "transit":84,
+      "bike":65,
+      "arts":[
+         "Randall Museum",
+         "Randall Museum Art"
+      ],
+      "restaurants":[
+         ""
+      ],
+      "groceries":[
+         "K D's Grog N' Groc"
+      ],
+      "cafes":[
+         ""
+      ],
+      "shopping":[
+         "Softwearlab"
+      ],
+      "nightLife":[
+         ""
+      ],
+      "zipCodes":[
+         "94114"
+      ],
+      "easiestParking":0,
+      "mostAffordable":1,
+      "nearDowntown":1
+   },
+   {
+      "nhoodID":19,
+      "nhood":"Cow Hollow",
+      "webLink":"http://sanfrancisco.about.com/od/neighborhoodprofiles/ig/sfmaps/Marina---Cow-Hollow-Map.htm",
+      "desc":"Cow Hollow is a generally affluent neighborhood located between Russian Hill and the Presidio and bordering the Marina District on one side and Pacific Heights on the other.",
+      "ttd":"16 minutes",
+      "rent":"$2,504",
+      "walk":94,
+      "transit":68,
+      "bike":70,
+      "arts":[
+         ""
+      ],
+      "restaurants":[
+         "Terzo",
+         "Golden Gate Deli & Liquor",
+         "Chubby Noodle",
+         "C C's Cocktail Lounge",
+         "Final Final",
+         "Pizzeria Avellino",
+         "Original Buffalo Wings"
+      ],
+      "groceries":[
+         ""
+      ],
+      "cafes":[
+         ""
+      ],
+      "shopping":[
+         "Trek San Francisco Cow Hollow"
+      ],
+      "nightLife":[
+         "C C's Cocktail Lounge",
+         "Final Final"
+      ],
+      "zipCodes":[
+         "94109",
+         "94123"
+      ],
+      "easiestParking":0,
+      "mostAffordable":1,
+      "nearDowntown":1
+   },
+   {
+      "nhoodID":20,
+      "nhood":"Crocker Amazon",
+      "webLink":"http://en.wikipedia.org/wiki/Crocker-Amazon,_San_Francisco,_California",
+      "desc":"Crocker-Amazon is a neighborhood in San Francisco that borders the Excelsior District. Crocker-Amazon covers the area south of Mission Street and Geneva Avenue, extending toward suburban Daly City. The neighborhood is adjacent to Crocker-Amazon Park, named after the Charles Crocker land holdings that once made up the area, and Amazon Avenue in the Excelsior. The winding streets of the neighborhood straddle the border between San Francisco and Daly City and largely blend in with the adjacent Daly City neighborhoods of Crocker and Southern Hills",
+      "ttd":"26 minutes",
+      "rent":"$2,062",
+      "walk":76,
+      "transit":71,
+      "bike":36,
+      "arts":[
+         "Billiard Palacade",
+         "Geneva Pub"
+      ],
+      "restaurants":[
+         "Brokern Record",
+         "Dark Horse Inn",
+         "Phillies",
+         "Taqueria La Iguana Azul",
+         "Reinas Restaurant",
+         "Taqueria Reinas",
+         "The Connection",
+         "El Porteno Restaurant",
+         "Mission Asia Noodle",
+         "Venice Pizza",
+         "J & A Restaurant",
+         "B & W Kitchen",
+         "Los Trinos",
+         "Honduras Kitchen"
+      ],
+      "groceries":[
+         "Cordova Market",
+         "Guzman Produce Market",
+         "Philippine Delicacies"
+      ],
+      "cafes":[
+         ""
+      ],
+      "shopping":[
+         "Acme Surplus Store",
+         "Blue Ribbon Optical",
+         "Metro by T-mobile",
+         "Geneva Eye Care Optometry"
+      ],
+      "nightLife":[
+         "Broken Record",
+         "Dark Horse Inn",
+         "Billiard Palacade",
+         "Te Connection",
+         "Geneva Pub"
+      ],
+      "zipCodes":[
+         "94112"
+      ],
+      "easiestParking":0,
+      "mostAffordable":1,
+      "nearDowntown":1
    }
 ]
