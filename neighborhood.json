@@ -5736,5 +5736,651 @@
       "easiestParking":0,
       "mostAffordable":0,
       "nearDowntown":0
+   },
+   {
+      "nhoodID":83,
+      "nhood":"Sea Cliff",
+      "webLink":"http://en.wikipedia.org/wiki/Sea_Cliff,_San_Francisco,_California",
+      "desc":"Sea Cliff (sometimes spelled Seacliff) is a neighborhood in northwestern San Francisco, California. It is known for its large houses and ocean views. Sea Cliff is one of eight master–planned residence parks in San Francisco; its master plan was developed by landscape architect Mark Daniels. Sea Cliff has become one of San Francisco's most elite residential areas.",
+      "ttd":"30 minutes",
+      "rent":"$2,958",
+      "walk":81,
+      "transit":61,
+      "bike":82,
+      "arts":[
+         "Robin Williams Seacliff House"
+      ],
+      "restaurants":[
+         
+      ],
+      "groceries":[
+         
+      ],
+      "cafes":[
+         
+      ],
+      "shopping":[
+         
+      ],
+      "nightLife":[
+         
+      ],
+      "zipCodes":[
+         "94121",
+         "94129"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":84,
+      "nhood":"Sherwood Forest",
+      "webLink":"http://en.wikipedia.org/wiki/Neighborhoods_in_San_Francisco#Sherwood_Forest",
+      "desc":"Sherwood Forest is a neighborhood in San Francisco, California with a population of 931. Sherwood Forest is in San Francisco County and is one of the best places to live in California. Living in Sherwood Forest offers residents an urban suburban mix feel and most residents own their homes. In Sherwood Forest, there are a lot of bars, restaurants, coffee shops, and parks. Many retirees live in Sherwood Forest, and residents tend to be liberal. The public schools in Sherwood Forest are highly rated.",
+      "ttd":"26 minutes",
+      "rent":"$3,501",
+      "walk":53,
+      "transit":66,
+      "bike":40,
+      "arts":[
+         
+      ],
+      "restaurants":[
+         
+      ],
+      "groceries":[
+         
+      ],
+      "cafes":[
+         
+      ],
+      "shopping":[
+         
+      ],
+      "nightLife":[
+         
+      ],
+      "zipCodes":[
+         "94127"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":85,
+      "nhood":"Showplace Square",
+      "webLink":"https://www.niche.com/places-to-live/n/showplace-square-san-francisco-ca/",
+      "desc":"Showplace Square is a neighborhood in San Francisco, California with a population of 84. Showplace Square is in San Francisco County. Living in Showplace Square offers residents a dense urban feel and most residents rent their homes. Residents of Showplace Square tend to be liberal.",
+      "ttd":"12 minutes",
+      "rent":"$3,071",
+      "walk":91,
+      "transit":86,
+      "bike":97,
+      "arts":[
+         "Code & Canvas",
+         "San Francisco Design Center",
+         "Catharine Clark Gallery",
+         "CCA Wattis Institute",
+         "Hosfelt Gallery",
+         "Misho Gallery",
+         "Brian Gross Fine Art",
+         "Zynga Theater"
+      ],
+      "restaurants":[
+         "Boba Guys",
+         "Bellota",
+         "Dumpling Time",
+         "Pizza Squared",
+         "StreetTaco",
+         "El Pipila",
+         "Dos Pinas",
+         "Saap Ver Authentic Thai",
+         "Okane",
+         "The Grove",
+         "San Francisco Design Center",
+         "Omakase",
+         "Wolfe's Espresso Bar",
+         "Hardwood Bar & Smokery"
+      ],
+      "groceries":[
+         "Trader Joe's",
+         "The Butcher Shop by Niku",
+         "Golden Gate Meat Co."
+      ],
+      "cafes":[
+         "Boba Guys",
+         "The Grove",
+         "Peet's Coffee and Tea",
+         "Starbucks",
+         "Peet's Coffee and Tea"
+      ],
+      "shopping":[
+         "REI",
+         "Muji 無印良品",
+         "Nordstrom Rack",
+         "Design Within Reach",
+         "BoConcept San Francisco",
+         "Eyes On You Optometry",
+         "Bed Bath & Beyond"
+      ],
+      "nightLife":[
+         "The Great Northern",
+         "Hardwood Bar & Smokery",
+         "Venue 550",
+         "Wine & Spirits Top 100 Tasting"
+      ],
+      "zipCodes":[
+         "94103",
+         "94107"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":1
+   },
+   {
+      "nhoodID":86,
+      "nhood":"Silver Terrace",
+      "webLink":"http://en.wikipedia.org/wiki/Neighborhoods_in_San_Francisco#Silver_Terrace",
+      "desc":"Silver Terrace is a neighborhood in the south eastern corner of San Francisco, between the Bayview and Portola neighborhoods. It is roughly bordered by Third Street to the east, Palou Avenue and Silver Avenue to the north, Williams Avenue to the south and Bayshore Boulevard and U.S. Route 101 to the west. A tunnel used by Caltrain runs under Silver Terrace.",
+      "ttd":"21 minutes",
+      "rent":"$2,019",
+      "walk":87,
+      "transit":72,
+      "bike":70,
+      "arts":[
+         "The African Outlet"
+      ],
+      "restaurants":[
+         "Radio Africa Kitchen",
+         "JJ Fish and Chicken",
+         "Frisco Fried",
+         "El Azteca Taqueria",
+         "Peking Wok Restaurant",
+         "Yvonne's Southern",
+         "Let's Eat BBQ & More"
+      ],
+      "groceries":[
+         "Mike's Market",
+         "A and W Distributors",
+         "Torino Grocery Market",
+         "Bayarea Freshness"
+      ],
+      "cafes":[
+         "Word. A Cafe",
+         "Tallio's Coffee & Tea"
+      ],
+      "shopping":[
+         "Metro by T-Mobile",
+         "San Francisco Progressive"
+      ],
+      "nightLife":[
+         "Word. A Cafe"
+      ],
+      "zipCodes":[
+         "94124"
+      ],
+      "easiestParking":0,
+      "mostAffordable":1,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":87,
+      "nhood":"South of Market",
+      "webLink":"http://www.sfgate.com/neighborhoods/sf/soma/",
+      "desc":"South of Market (SoMa) is a neighborhood in San Francisco, California, situated just south of Market Street. It contains several sub-neighborhoods including South Beach, Yerba Buena, and Rincon Hill. SoMa is home to many of the city's museums, to the headquarters of several major software and Internet companies, and to the Moscone Conference Center.",
+      "ttd":"11 minutes",
+      "rent":"$1,639",
+      "walk":97,
+      "transit":99,
+      "bike":94,
+      "arts":[
+         "The Strand Theater",
+         "Museum of the African",
+         "Contemporary Jewish Museum",
+         "AsiaSF"
+      ],
+      "restaurants":[
+         "Sightglass Coffee",
+         "Deli Board",
+         "Cellarmaker Brewing",
+         "Garaje",
+         "Birdsong",
+         "Montesacro Pinseria"
+      ],
+      "groceries":[
+         "Trader Joe's",
+         "Whole Foods",
+         "The Apothecarium",
+         "The Wine Club",
+         "Soma Wine & Spirits",
+         "Island Cove Market",
+         "GNC",
+         "Mi Tierra Supermarket"
+      ],
+      "cafes":[
+         "Sightglass Coffee",
+         "Golden Goat Coffee",
+         "Blue Bottle Coffee",
+         "Philz Coffee",
+         "Andytown Coffee Roasters",
+         "Cafe Okawari",
+         "Darwin Cafe",
+         "Les Gourmands"
+      ],
+      "shopping":[
+         "San Francisco Flower Mart",
+         "Huckleberry Bicycles",
+         "Central Computers",
+         "The Container Store",
+         "Louis Vuitton",
+         "Out of the Closet - Folsom",
+         "Kryolan-Professional",
+         "Abercrombie & Fitch",
+         "Michael Kors"
+      ],
+      "nightLife":[
+         "City Beer Store",
+         "Cellarmaker Brewing",
+         "SF Eagle",
+         "Zeitgeist",
+         "Martuni's",
+         "Oasis",
+         "Hotel Biron"
+      ],
+      "zipCodes":[
+         "94103",
+         "94105",
+         "94107"
+      ],
+      "easiestParking":0,
+      "mostAffordable":1,
+      "nearDowntown":1
+   },
+   {
+      "nhoodID":88,
+      "nhood":"St. Francis Wood",
+      "webLink":"http://en.wikipedia.org/wiki/St._Francis_Wood,_San_Francisco,_California",
+      "desc":"St. Francis Wood is a residential neighborhood located in southwestern San Francisco, California, south of the West Portal neighborhood and west of Mount Davidson. St. Francis Wood had a population of 1,229 and a median household income of $179,244 in 2019.[2] Characterized by family homes on spacious lots (by San Francisco standards), St. Francis Wood has no visible businesses and has a correspondingly low profile compared to similar wealthy neighborhoods such as the Marina District and Pacific Heights. St. Francis Wood is one of eight master-planned residence parks in San Francisco. It is listed on the National Register of Historic Places as St. Francis Wood Historic District.",
+      "ttd":"24 minutes",
+      "rent":"$3,501",
+      "walk":86,
+      "transit":72,
+      "bike":64,
+      "arts":[
+         ""
+      ],
+      "restaurants":[
+         "Mei Mei Restaurant",
+         "Beard Papa"
+      ],
+      "groceries":[
+         "Clary Sage Organics"
+      ],
+      "cafes":[
+         ""
+      ],
+      "shopping":[
+         ""
+      ],
+      "nightLife":[
+         ""
+      ],
+      "zipCodes":[
+         "94127"
+      ],
+      "easiestParking":1,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":89,
+      "nhood":"St. Marys Park",
+      "webLink":"https://www.niche.com/places-to-live/n/st-marys-park-san-francisco-ca/",
+      "desc":"St. Marys Park is a neighborhood in San Francisco, California with a population of 2,375. St. Marys Park is in San Francisco County and is one of the best places to live in California. Living in St. Marys Park offers residents an urban suburban mix feel and most residents own their homes. In St. Marys Park there are a lot of bars, restaurants, coffee shops, and parks. Many families and young professionals live in St. Marys Park and residents tend to be liberal.",
+      "ttd":"19 minutes",
+      "rent":"$3,282",
+      "walk":84,
+      "transit":81,
+      "bike":71,
+      "arts":[
+         "Edible Excursions"
+      ],
+      "restaurants":[
+         "St Mary's Pub",
+         "Red's Pizzeria",
+         "Rinconcito Salvadoreno",
+         "Mama Mia Pizza"
+      ],
+      "groceries":[
+         "New Bosworth Market"
+      ],
+      "cafes":[
+         ""
+      ],
+      "shopping":[
+         ""
+      ],
+      "nightLife":[
+         "St Mary's Pub"
+      ],
+      "zipCodes":[
+         "94110"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":90,
+      "nhood":"Stonestown",
+      "webLink":"https://www.niche.com/places-to-live/n/stonestown-san-francisco-ca/",
+      "desc":"Stonestown is a neighborhood in San Francisco, California with a population of 4,789. Stonestown is in San Francisco County and is one of the best places to live in California. Living in Stonestown offers residents an urban feel and most residents Rent their homes. In Stonestown there are a lot of bars, restaurants, coffee shops, and parks. Many young professionals live in Stonestown and residents tend to be liberal.",
+      "ttd":"27 minutes",
+      "rent":"$2,275",
+      "walk":87,
+      "transit":68,
+      "bike":66,
+      "arts":[
+         "Regal UA Stonestown",
+         "Regal Stonestown"
+      ],
+      "restaurants":[
+         "Marugame Udon",
+         "Matcha Cafe Maiko",
+         "Blaze Pizza",
+         "Gram Cafe & Pancakes",
+         "Cocola Bakery",
+         "Tokyo Express"
+      ],
+      "groceries":[
+         "Stonestown Farmers Market",
+         "Trader Joe's"
+      ],
+      "cafes":[
+         "Gram Cafe & Pancakes",
+         "Jamba",
+         "Yifang Taiwan Fruit Tea",
+         "Peet's Coffee and Tea",
+         "Starbucks"
+      ],
+      "shopping":[
+         "Pet Food Express",
+         "Zara",
+         "Hallmark Licensing",
+         "Apple Stonestown",
+         "Uniqlo",
+         "Victoria's Secret"
+      ],
+      "nightLife":[
+         ""
+      ],
+      "zipCodes":[
+         "94132"
+      ],
+      "easiestParking":0,
+      "mostAffordable":1,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":91,
+      "nhood":"Sunnydale",
+      "webLink":"http://en.wikipedia.org/wiki/Neighborhoods_in_San_Francisco#Sunnydale",
+      "desc":"Sunnydale is a small neighborhood in Visitacion Valley located between McLaren Park and the Cow Palace. Bordered by Geneva Avenue to the south, Sawyer Street to the east, Sunnydale Avenue to the north and geographically isolated McLaren Park to the west. Known for its notoriously high crime rate and housing projects on Sunnydale Avenue, also known as \"the Swamp\" or \"the Dale\". It is the center of Visitacion Valley's African American community.",
+      "ttd":"24 minutes",
+      "rent":"$1,041",
+      "walk":69,
+      "transit":62,
+      "bike":44,
+      "arts":[
+         ""
+      ],
+      "restaurants":[
+         "Los Reyes Restaurant",
+         "Montecristo Resturant"
+      ],
+      "groceries":[
+         "M & M Shortstop",
+         "Easy Stop Market"
+      ],
+      "cafes":[
+         ""
+      ],
+      "shopping":[
+         ""
+      ],
+      "nightLife":[
+         ""
+      ],
+      "zipCodes":[
+         "94134"
+      ],
+      "easiestParking":0,
+      "mostAffordable":1,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":92,
+      "nhood":"Sunnyside",
+      "webLink":"http://en.wikipedia.org/wiki/Neighborhoods_in_San_Francisco#Sunnyside",
+      "desc":"Sunnyside is a medium-sized neighborhood to the north of Highway 280, bordered by the neighborhoods of Glen Park to the east, Miraloma Park to the north, and Westwood Park/Highlands to the west. In addition, City College of San Francisco (CCSF) has its main campus on the border of Sunnyside to the south. CCSF was built on a hillside formerly occupied by the city jail until 1934",
+      "ttd":"21 minutes",
+      "rent":"$3,117",
+      "walk":79,
+      "transit":79,
+      "bike":63,
+      "arts":[
+         ""
+      ],
+      "restaurants":[
+         "Won Kok Restaurant",
+         "Shanghai Dumpling King",
+         "K's Kitchen",
+         "Monterey Deli",
+         "City College: Cafeteria",
+         "Big Joe's",
+         "Railroad Expresso"
+      ],
+      "groceries":[
+         "Safeway",
+         "Starr Spirits & Bottle Shop"
+      ],
+      "cafes":[
+         "Railroad Expresso",
+         "Peet's Coffee and Tea"
+      ],
+      "shopping":[
+         "Kwik & Convenient",
+         "House of Bagpipes"
+      ],
+      "nightLife":[
+         "Friends Bar"
+      ],
+      "zipCodes":[
+         "94112",
+         "94127",
+         "94131"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":93,
+      "nhood":"Sutro Heights",
+      "webLink":"https://www.niche.com/places-to-live/n/sutro-heights-san-francisco-ca/",
+      "desc":"Sutro Heights is a neighborhood in San Francisco, California with a population of 2,050. Sutro Heights is in San Francisco County and is one of the best places to live in California. Living in Sutro Heights offers residents a dense urban feel and most residents own their homes. In Sutro Heights there are a lot of bars, restaurants, coffee shops, and parks. Many young professionals and retirees live in Sutro Heights and residents tend to be liberal. The public schools in Sutro Heights are highly rated.",
+      "ttd":"35 minutes",
+      "rent":"$2,145",
+      "walk":77,
+      "transit":63,
+      "bike":64,
+      "arts":[
+         ""
+      ],
+      "restaurants":[
+         "Seal Rock Inn Restaurant",
+         "Lookout Cafe"
+      ],
+      "groceries":[
+         ""
+      ],
+      "cafes":[
+         "Lookout Cafe"
+      ],
+      "shopping":[
+         "Cliff Houses Gift Shop",
+         "Walgreens"
+      ],
+      "nightLife":[
+         ""
+      ],
+      "zipCodes":[
+         "94121"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":94,
+      "nhood":"Telegraph Hill",
+      "webLink":"http://en.wikipedia.org/wiki/Telegraph_Hill,_San_Francisco",
+      "desc":"Originally named Loma Alta (\"High Hill\") by the Spaniards, the hill was then familiarly known as Goat Hill by the early San Franciscans and became the neighborhood of choice for many Irish immigrants. From 1825 through 1847, the area between Sansome and Battery, Broadway and Vallejo streets was used as a burial ground for foreign non-Catholic seamen.",
+      "ttd":"9 minutes",
+      "rent":"$2,121",
+      "walk":97,
+      "transit":86,
+      "bike":65,
+      "arts":[
+         "Telegraph Hill Gallery",
+         "An American Romantic",
+         "Golden Gate Park Carousel"
+      ],
+      "restaurants":[
+         "Tan's Cafe III",
+         "Svenhards Swedish Bakery"
+      ],
+      "groceries":[
+         "R J's Market Levi Plaza",
+         "Vinfolio",
+         "San Francisco Caviar House"
+      ],
+      "cafes":[
+         "Tan's Cafe III",
+         "Peet's Coffee and Tea"
+      ],
+      "shopping":[
+         "The RealReal",
+         "Macchiarini Creative Design",
+         "Terrific Street",
+         "Puls Appliance Repair San"
+      ],
+      "nightLife":[
+         ""
+      ],
+      "zipCodes":[
+         "94133"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":1
+   },
+   {
+      "nhoodID":95,
+      "nhood":"Tenderloin",
+      "webLink":"http://www.sfgate.com/neighborhoods/sf/tenderloin/",
+      "desc":"Repeatedly described in most tourist guides as \"the worst neighborhood in San Francisco,\" the Tenderloin thrives despite its bad rap. Sure, there are Tenderloinloads of drug dealers, addicts, prostitutes and mentally unstable street people, but if you can get past that, you'll find it is also one of the city's most exciting and diverse locales.",
+      "ttd":"10 minutes",
+      "rent":"$766",
+      "walk":100,
+      "transit":100,
+      "bike":91,
+      "arts":[
+         ""
+      ],
+      "restaurants":[
+         "Great American Music Hall",
+         "Black Sugar",
+         "Brenda's French Soul Food",
+         "Saigon Sandwiches",
+         "Lers Ros Thai"
+      ],
+      "groceries":[
+         "California Produce",
+         "Hiep Thanh Market",
+         "Napa Valley Winery",
+         "Bread & Butter Market",
+         "Battambang Market"
+      ],
+      "cafes":[
+         "Black Sugar",
+         "Taylor Street Coffee Shop",
+         "Scullery",
+         "L&G Vietnamese",
+         "Golden Lotus"
+      ],
+      "shopping":[
+         "Camera Heaven",
+         "World Of Stereo 2",
+         "Warm Planet Bikes",
+         "Werk Beauty Supply",
+         "Service Well Market"
+      ],
+      "nightLife":[
+         "Great American Music Hall",
+         "Ales Unlimited: Beer Basement",
+         "Wilson & Wilson Private",
+         "Zombie Village",
+         "Amsterdam Cafe"
+      ],
+      "zipCodes":[
+         "94102"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":1
+   },
+   {
+      "nhoodID":96,
+      "nhood":"Treasure Island",
+      "webLink":"http://en.wikipedia.org/wiki/Treasure_Island,_California",
+      "desc":"Treasure Island is an artificial island in the San Francisco Bay and a neighborhood in the City and County of San Francisco. Built in 1936–37 for the 1939 Golden Gate International Exposition, the island was named by Clyde Milner Vandeburg, part of the Fair's public relation team. Its World's Fair site is a California Historical Landmark.",
+      "ttd":"19 minutes",
+      "rent":"$2,159",
+      "walk":40,
+      "transit":35,
+      "bike":65,
+      "arts":[
+         ""
+      ],
+      "restaurants":[
+         "Treasure Island Wi",
+         "Aracely Cafe",
+         "Woods Island Club",
+         "Sol Rouge Winery",
+         "Bay Area BBQ & Grilling School"
+      ],
+      "groceries":[
+         ""
+      ],
+      "cafes":[
+         ""
+      ],
+      "shopping":[
+         "T.I. 108 Crew HQ"
+      ],
+      "nightLife":[
+         "Aracely Cafe",
+         "Woods Island Club",
+         "The Winery SF"
+      ],
+      "zipCodes":[
+         "94130"
+      ],
+      "easiestParking":1,
+      "mostAffordable":0,
+      "nearDowntown":0
    }
 ]
