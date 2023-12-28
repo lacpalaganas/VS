@@ -1610,5 +1610,506 @@
       "easiestParking":0,
       "mostAffordable":1,
       "nearDowntown":0
+   },
+   {
+      "nhoodID":26,
+      "nhood":"Fairmount",
+      "webLink":"https://www.niche.com/places-to-live/n/fairmount-san-francisco-ca/",
+      "desc":"Fairmount is a neighborhood in San Francisco, California with a population of 3,841. Fairmount is in San Francisco County and is one of the best places to live in California. Living in Fairmount offers residents an urban suburban mix feel and most residents own their homes. In Fairmount there are a lot of bars, restaurants, coffee shops, and parks. Many young professionals live in Fairmount and residents tend to be liberal. The public schools in Fairmount are above average.",
+      "ttd":"10 minutes",
+      "rent":"$2,584",
+      "walk":87,
+      "transit":81,
+      "bike":71,
+      "arts":[
+         "Sota Mainstage"
+      ],
+      "restaurants":[
+         "La Corneta",
+         "Gialina",
+         "Destination Baking Co.",
+         "Cup",
+         "Manzoni"
+      ],
+      "groceries":[
+         "Canyon Market",
+         "Cheese Boutique",
+         "Buddie's Super Market",
+         "Grandma's Homemade"
+      ],
+      "cafes":[
+         "Cup",
+         "Cuppa",
+         "Higher Grounds Coffee House",
+         "Bello Coffee & Tea",
+         "Pebble's Cafe",
+         "Curbside Coffee"
+      ],
+      "shopping":[
+         "Bird & Beckett Books & Records",
+         "Ls* Perch",
+         "Glen Park Liquor",
+         "Critter Fritters Pet Foods",
+         "Glen Park Flower Stand"
+      ],
+      "nightLife":[
+         "Tekka House",
+         "The Stoop"
+      ],
+      "zipCodes":[
+         "94132"
+      ],
+      "easiestParking":1,
+      "mostAffordable":1,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":27,
+      "nhood":"Financial District",
+      "webLink":"http://sanfrancisco.about.com/od/neighborhoodprofiles/ig/sfmaps/financial-district.htm",
+      "desc":"The Financial District is a neighborhood in San Francisco, California, United States, that serves as its main central business district and had 372,829 jobs according to U.S. census tracts as of 2012-2016. It is home to the city's largest concentration of corporate headquarters, law firms, insurance companies, real estate firms, savings and loan banks, and other financial institutions. Multiple Fortune 500 companies headquartered in San Francisco have their offices in the Financial District, including Wells Fargo, Salesforce, Uber, Gap, and Williams-Sonoma.",
+      "ttd":"1 minute",
+      "rent":"$2,229",
+      "walk":99,
+      "transit":100,
+      "bike":83,
+      "arts":[
+         "Musee Mecanique",
+         "Landmark Theatres",
+         "Punch Line Comedy Club",
+         "Autodesk Gallery",
+         "Modernist",
+         "San Francisco Railway",
+         "Rincon Annex",
+         "Historic Post",
+         "7D Experience",
+         "City Club of San Francisco",
+         "Beau Bonneau Casting",
+         "Wells Fargo History Museum",
+         "The Bridge",
+         "Varnish Fine Art",
+         "Empress Events",
+         "Synergy's COSMO at Sens. Marketraz1"
+      ],
+      "restaurants":[
+         "Hog Island Oyster Co.",
+         "Primavera",
+         "Watfare Tavern",
+         "Coqueta",
+         "Pushkin",
+         "Ozumo SF",
+         "Acme Bread Company",
+         "Tadich Grill",
+         "Gott's Roadside",
+         "Pabu",
+         "Fog Harbor Fish House",
+         "Homegrown 2001",
+         "Barcha",
+         "El Porteno Empanadas",
+         "Super Duper Burgers",
+         "Punch Line Comedy club",
+         "The Shota",
+         "Jimmy's John",
+         "Harborview Restaurant & Bar",
+         "The Slanted Door",
+         "Yank Sing Restaurants",
+         "La Fusion",
+         "Blue Hawaii Acai Cafe",
+         "MAriposa Baking Co.",
+         "The Occidental Cigar Club"
+      ],
+      "groceries":[
+         "Ferry Building Marketplace",
+         "Cask",
+         "Golden Gate Meat Company",
+         "One Market Plaza",
+         "Prather Ranch Meat Co.",
+         "Chocolate Heavem",
+         "Recchiuti Confections",
+         "Fog City News",
+         "See's Candies",
+         "Stonehouse California Olive",
+         "Far West Fungi",
+         "Candy Baron",
+         "Village Market",
+         "Insomnia Cookies",
+         "The Fudge House",
+         "GNC",
+         "Rincon Market",
+         "Bee Kind",
+         "NEWTREE Chocolate Cafe",
+         "575 Market Center",
+         "Monday Farmers Market",
+         "Monterey Fish"
+      ],
+      "cafes":[
+         "Blue Bottle Coffee",
+         "Philz Coffee",
+         "Pressed Juicery",
+         "Blue Hawaii Acai Coffee",
+         "Frog Hollow Farm",
+         "Goofle-Sage Cafe",
+         "Starbucks Reserve",
+         "Paramo Coffee Roasters",
+         "Juice Shop",
+         "Joe The Juice",
+         "La Capra Coffee",
+         "Gap Cafe",
+         "Bluestone Lane Front Street",
+         "Cafe Terminus",
+         "The Crepe Cafe",
+         "Peet's Coffee & Tea",
+         "The Plant Cafe Organic",
+         "Focaccia Market Bakery",
+         "Imperial Tea Court",
+         "Good Eats Cafe"
+      ],
+      "shopping":[
+         "Wingtip",
+         "Alexander Book Co.",
+         "Hall & Szeto Optometry",
+         "Heath Ceramics",
+         "Book Passage",
+         "Black Tie & Tuxedos",
+         "Embarcadero OuTtdoor Crafts",
+         "Four Embarcadero",
+         "The Shell Cellar",
+         "LensCrafters",
+         "LOFT",
+         "Verizon Wireless",
+         "The Gardener",
+         "Banana Republic",
+         "Under the Golden Gate",
+         "T-Mobile",
+         "Three Embarcadero",
+         "Alcatraz Gift Shop",
+         "AT&T Store",
+         "One Embarcadero",
+         "CVS Pharmacy",
+         "7-Eleven",
+         "Pearl Factory",
+         "Walgreens",
+         "Zara"
+      ],
+      "nightLife":[
+         "Wayfare Tavern",
+         "Punch Line Comedy Club",
+         "Harborview Restaurant & Bar",
+         "The Occidental Cigar Club",
+         "Wingtip Club",
+         "Leo's Oyster Bar",
+         "The Hidden Vine",
+         "Hard Water",
+         "Modernist",
+         "Louie's Bar & Grill",
+         "House of Shields",
+         "The Vault",
+         "The Treasury",
+         "83 Proof",
+         "Cafe Terminus",
+         "City Club of San Francisco",
+         "Perry's",
+         "Blanc et Rouge",
+         "Bar 333 & Bistro",
+         "Eclipse Restaurant & Bar",
+         "Tequila Mockingbird",
+         "Irish Times",
+         "Sutter Station Tavern",
+         "Toy Soldier"
+      ],
+      "zipCodes":[
+         "94104"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":1
+   },
+   {
+      "nhoodID":28,
+      "nhood":"Fishermans Wharf",
+      "webLink":"http://www.sfgate.com/neighborhoods/sf/fishermanswharf/",
+      "desc":"Fisherman's Wharf is a neighborhood and popular tourist attraction in San Francisco, California, United States. It roughly encompasses the northern waterfront area of San Francisco from Ghirardelli Square or Van Ness Avenue east to Pier 35 or Kearny Street. The F Market streetcar runs through the area, the Powell-Hyde cable car line runs to Aquatic Park, at the edge of Fisherman's Wharf, and the Powell-Mason cable car line runs a few blocks away.",
+      "ttd":"10 minutes",
+      "rent":"$1,387",
+      "walk":96,
+      "transit":79,
+      "bike":74,
+      "arts":[
+         "City Sighseeing San Francisco",
+         "Eden Fine Art",
+         "Chloe Gallery",
+         "Carbon",
+         "ZK Gallery",
+         "Ripley's Believe It or Not",
+         "Longshoreman's Hall",
+         "Museum of 3D",
+         "Zea Gallery",
+         "Zoltar",
+         "Wax Museum Entertainment"
+      ],
+      "restaurants":[
+         "Cafe de Casa",
+         "Norman's Ice Cream",
+         "Hollywood Cafe",
+         "Boudin Bakery  Cafe Bakers",
+         "The Cofmother Fish & Chips",
+         "Surisan",
+         "Crab House",
+         "The Baked Bear",
+         "Carmel Pizza Company",
+         "In-N Out Burger",
+         "Bistro Boudin",
+         "Ben & Jerry's",
+         "Franciscan Crab restaurant",
+         "Abaca",
+         "Tanguito",
+         "Eight AM",
+         "Darren's Cafe",
+         "IHOP",
+         "Cioppino's",
+         "Pepper Palace",
+         "Red Jack Saloon",
+         "Coco Fresh Tea & Juice",
+         "Hot Spud",
+         "Waterfront Bakery",
+         "Goodfella's Pizzeria"
+      ],
+      "groceries":[
+         "Ghirardelli Ice Cream",
+         "It'Sugar",
+         "Chocolate Store",
+         "Alioto Lazio Fish Co.",
+         "GNC",
+         "Rocket Fizz",
+         "See's Candies",
+         "Safeway",
+         "Rocky Mountain Chocolate",
+         "Skyy Spirits",
+         "Anchorage Liquor & Deli"
+      ],
+      "cafes":[
+         "Hollywood Cafe",
+         "Strabucks",
+         "Darren's Cafe",
+         "CoCo Fresh Tea & Juice",
+         "Peet's Coffee & Tea",
+         "Quickly",
+         "Latte express",
+         "Norcina",
+         "Lefty's Ballpark Buffet"
+      ],
+      "shopping":[
+         "Patagonia San Francisco",
+         "Route 66",
+         "Bay City Bike",
+         "Wharf Central",
+         "Sock Market",
+         "7-Eleven",
+         "Wharf OuTtdoors",
+         "Sunglass Hut",
+         "The Bay Company",
+         "Hyde Street Pier",
+         "Lush",
+         "Lids",
+         "Pearl Factory",
+         "KingSpoke Maritime Store",
+         "Bye Bye San Francisco",
+         "World Camera",
+         "Frank's Fisherman",
+         "Crazy Shirts"
+      ],
+      "nightLife":[
+         "Red Jack Saloon",
+         "Carbon",
+         "Supreme Crab",
+         "Winery Collective",
+         "Brick & Beam",
+         "Altalena Vinoteca",
+         "Red Fin Restaurant",
+         "Fireplace",
+         "Bar Zoe",
+         "Knuckles Historic Sports"
+      ],
+      "zipCodes":[
+         "94133"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":1
+   },
+   {
+      "nhoodID":29,
+      "nhood":"Forest Hill",
+      "webLink":"http://en.wikipedia.org/wiki/Forest_Hill,_San_Francisco,_California",
+      "desc":"Forest Hill is a neighborhood in San Francisco, California. Forest Hill is one of eight master-planned residence parks in San Francisco. Forest Hill is located near the middle of the City of San Francisco, southeast of the Inner Sunset and northeast of West Portal. Boundaries are roughly Seventh Avenue/Laguna Honda Boulevard to the north and east, Taraval Street to the south, and 14th Avenue to the west.",
+      "ttd":"23 minutes",
+      "rent":"$2,537",
+      "walk":68,
+      "transit":72,
+      "bike":53,
+      "arts":[
+         ""
+      ],
+      "restaurants":[
+         "My Pot",
+         "Sushi Shoh",
+         "ChouChou French Bistro",
+         "Foodee Burger"
+      ],
+      "groceries":[
+         ""
+      ],
+      "cafes":[
+         ""
+      ],
+      "shopping":[
+         ""
+      ],
+      "nightLife":[
+         ""
+      ],
+      "zipcodes":[
+         "94116"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":1
+   },
+   {
+      "nhoodID":30,
+      "nhood":"Forest Knolls",
+      "webLink":"http://en.wikipedia.org/wiki/Neighborhoods_in_San_Francisco#Forest_Knolls",
+      "desc":"Forest Knolls is a neighborhood of San Francisco, located within the Inner Sunset built on the southwestern side of Mount Sutro, near the main UCSF campus. Warren Drive is the southern and western border, Mount Sutro is the northern border and the Midtown Terrace neighborhood is to the east. Homes are mostly fully detached and many have views of the San Francisco Bay or Pacific Ocean.",
+      "ttd":"32 minutes",
+      "rent":"$3,243",
+      "walk":50,
+      "transit":64,
+      "bike":43,
+      "arts":[
+         ""
+      ],
+      "restaurants":[
+         ""
+      ],
+      "groceries":[
+         ""
+      ],
+      "cafes":[
+         ""
+      ],
+      "shopping":[
+         ""
+      ],
+      "nightLife":[
+         ""
+      ],
+      "zipcodes":[
+         "94116"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":1
+   },
+   {
+      "nhoodID":31,
+      "nhood":"Glen Park",
+      "webLink":"http://en.wikipedia.org/wiki/Glen_Park,_San_Francisco",
+      "desc":"The neighborhood is nestled at the southeastern edge of San Francisco's central hills, the San Miguel Range. It includes Gold Mine Hill, a portion of Fairmount Hill to the east, Martha Hill to the south, as well as their southern- and eastern-facing slopes. The neighborhood's streets follow the hill's contours to a small commercial district (\"the Village\") at the intersection of Chenery and Diamond streets.",
+      "ttd":"22 minutes",
+      "rent":"$2,103",
+      "walk":83,
+      "transit":80,
+      "bike":66,
+      "arts":[
+         "Sota Mainstage"
+      ],
+      "restaurants":[
+         "La Corneta",
+         "Gialina",
+         "Destination Baking Co.",
+         "Cup",
+         "Manzoni",
+         "Cuppa",
+         "Higher Grounds Coffee House",
+         "Bello Coffee & Tea",
+         "Viking Sub",
+         "Win Garden",
+         "One Waan Thai",
+         "Tekka House",
+         "Pebble's Cafe"
+      ],
+      "groceries":[
+         "Canyon Market",
+         "Cheese Boutique",
+         "Buddie's Super Market"
+      ],
+      "cafes":[
+         "Cup",
+         "Cuppa",
+         "Higher Grounds Coffee House",
+         "Bello Coffee & Tea",
+         "Pebbles's Cafe"
+      ],
+      "shopping":[
+         "Bird & BeckettBooks and Records",
+         "Ls*Perch",
+         "Glen Park Liquor",
+         "Critter Fritters Pet Foods"
+      ],
+      "nightLife":[
+         "Tekka House",
+         "The Stoop"
+      ],
+      "zipCodes":[
+         "94131"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":32,
+      "nhood":"Golden Gate Heights",
+      "webLink":"http://en.wikipedia.org/wiki/Neighborhoods_in_San_Francisco#Golden_Gate_Heights",
+      "desc":"This tranquil residential area is home to the 16th Avenue Tiled Steps, 163 colorful, mosaic-tiled stairs leading up to scenic views of the city and Pacific Ocean. Venture further skywards to Grandview Park for a panoramic eyeful of San Francisco Bay and beyond. The 7-acre Golden Gate Heights Park provides a kids' playground and a tennis court, as well as more green vistas",
+      "ttd":"33 minutes",
+      "rent":"$2,799",
+      "walk":77,
+      "transit":67,
+      "bike":52,
+      "arts":[
+         ""
+      ],
+      "restaurants":[
+         "Guerra Quality Meats",
+         "Mr Szechuan",
+         "Gold Mirror Italian",
+         "Lollipot"
+      ],
+      "groceries":[
+         "Guerra Quality Meats",
+         "San Francisco Wine Trading",
+         "Nineteenth Avenue Liquors",
+         "Safeway",
+         "17th & Balboa Market"
+      ],
+      "cafes":[
+         ""
+      ],
+      "shopping":[
+         "CVS Pharmacy",
+         "Taraval Eye Care",
+         "Speedway Express",
+         "Safeway Pharmacy"
+      ],
+      "nightLife":[
+         "K Net Karaoke"
+      ],
+      "zipCodes":[
+         "94116"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
    }
 ]
