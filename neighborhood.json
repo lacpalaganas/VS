@@ -94,7 +94,7 @@
          "94118"
       ],
       "easiestParking":1,
-      "mostAffordable":1,
+      "mostAffordable":0,
       "nearDowntown":1
    },
    {
@@ -496,7 +496,7 @@
          "94123"
       ],
       "easiestParking":0,
-      "mostAffordable":1,
+      "mostAffordable":0,
       "nearDowntown":0
    },
    {
@@ -1080,7 +1080,7 @@
          "94131"
       ],
       "easiestParking":0,
-      "mostAffordable":1,
+      "mostAffordable":0,
       "nearDowntown":0
    },
    {
@@ -1146,7 +1146,7 @@
          "94117"
       ],
       "easiestParking":0,
-      "mostAffordable":1,
+      "mostAffordable":0,
       "nearDowntown":0
    },
    {
@@ -1225,7 +1225,7 @@
          "94123"
       ],
       "easiestParking":0,
-      "mostAffordable":1,
+      "mostAffordable":0,
       "nearDowntown":1
    },
    {
@@ -1321,7 +1321,7 @@
          "94131"
       ],
       "easiestParking":0,
-      "mostAffordable":1,
+      "mostAffordable":0,
       "nearDowntown":0
    },
    {
@@ -1404,7 +1404,7 @@
          "94114"
       ],
       "easiestParking":0,
-      "mostAffordable":1,
+      "mostAffordable":0,
       "nearDowntown":0
    },
    {
@@ -1537,7 +1537,7 @@
          "94114"
       ],
       "easiestParking":0,
-      "mostAffordable":1,
+      "mostAffordable":0,
       "nearDowntown":0
    },
    {
@@ -1660,7 +1660,7 @@
          "94132"
       ],
       "easiestParking":1,
-      "mostAffordable":1,
+      "mostAffordable":0,
       "nearDowntown":1
    },
    {
@@ -1821,7 +1821,7 @@
          "94104"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":1
    },
    {
@@ -1934,7 +1934,7 @@
          "94133"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":1
    },
    {
@@ -2064,7 +2064,7 @@
          "94131"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":0
    },
    {
@@ -2220,7 +2220,7 @@
          "94117"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":0
    },
    {
@@ -2382,7 +2382,7 @@
          "94110"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":0
    },
    {
@@ -2465,7 +2465,7 @@
          "94132"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":0
    },
    {
@@ -2883,7 +2883,7 @@
          "94115"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":1
    },
    {
@@ -2953,7 +2953,7 @@
          "94118"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":1
    },
    {
@@ -3107,7 +3107,7 @@
          "94134"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":1
    },
    {
@@ -3168,7 +3168,7 @@
          "94118"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":1
    },
    {
@@ -3274,7 +3274,7 @@
          "94117"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":1
    },
    {
@@ -3435,7 +3435,7 @@
          "94133"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":1
    },
    {
@@ -3524,7 +3524,7 @@
          "94117"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":1
    },
    {
@@ -3559,7 +3559,7 @@
          "94123"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":1
    },
    {
@@ -3594,7 +3594,7 @@
          "94134"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":0
    },
    {
@@ -3675,7 +3675,7 @@
          "94131"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":0
    },
    {
@@ -4035,7 +4035,7 @@
          "94114"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":1
    },
    {
@@ -4090,7 +4090,7 @@
          "94112"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":1
    },
    {
@@ -4125,7 +4125,7 @@
          "94127"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":0
    },
    {
@@ -4237,7 +4237,7 @@
          "94133"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":1
    },
    {
@@ -4491,7 +4491,7 @@
          "94133"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":1
    },
    {
@@ -4636,7 +4636,7 @@
          "94112"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":1
    },
    {
@@ -4765,7 +4765,7 @@
          "94122"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":0
    },
    {
@@ -5036,7 +5036,7 @@
          "94117"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":1
    },
    {
@@ -5086,7 +5086,7 @@
          "94132"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":0
    },
    {
@@ -5243,7 +5243,7 @@
          "94110"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":1
    },
    {
@@ -5319,7 +5319,7 @@
          "94109"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":1
    },
    {
@@ -5562,7 +5562,7 @@
          "94121"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":0
    },
    {
@@ -5737,7 +5737,7 @@
          "94109"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":1
    },
    {
@@ -6243,7 +6243,7 @@
          "94121"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":0
    },
    {
@@ -6287,7 +6287,7 @@
          "94133"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":1
    },
    {
@@ -6342,7 +6342,7 @@
          "94102"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":1
    },
    {
@@ -6383,7 +6383,7 @@
          "94130"
       ],
       "easiestParking":1,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":1
    },
    {
@@ -6550,7 +6550,7 @@
          "94134"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":0
    },
    {
@@ -6658,7 +6658,7 @@
          "94117"
       ],
       "easiestParking":0,
-      "mostAffordable":0,
+      "mostAffordable":1,
       "nearDowntown":1
    },
    {
