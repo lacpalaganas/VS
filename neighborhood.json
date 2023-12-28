@@ -6382,5 +6382,363 @@
       "easiestParking":1,
       "mostAffordable":0,
       "nearDowntown":0
+   },
+   {
+      "nhoodID":97,
+      "nhood":"Union Street",
+      "webLink":"https://www.niche.com/places-to-live/n/union-street-san-francisco-ca/",
+      "desc":"Union Street is a neighborhood in San Francisco, California with a population of 2,330. Union Street is in San Francisco County and is one of the best places to live in California. Living in Union Street offers residents a dense urban feel and most residents Rent their homes. In Union Street there are a lot of bars, restaurants, coffee shops, and parks. Many young professionals live in Union Street and residents tend to be liberal. The public schools in Union Street are highly rated.",
+      "ttd":"12 minutes",
+      "rent":"$2,371",
+      "walk":99,
+      "transit":76,
+      "bike":73,
+      "arts":[
+         "The Puppet People",
+         "Music Haven Stage"
+      ],
+      "restaurants":[
+         "Gershon's Deli & Caterers",
+         "I Love NY Pizza",
+         "The City Squire",
+         "Golden House",
+         "Bruegger's",
+         "Hot Harry's"
+      ],
+      "groceries":[
+         "Price Chopper",
+         "Lloyd Spear Beekeeper"
+      ],
+      "cafes":[
+         "Union Cafe",
+         "Storied Coffee"
+      ],
+      "shopping":[
+         "Stewart's Shops",
+         "Walgreens",
+         "Northeastern Fine Jewelry",
+         "Simon's Men's Wear"
+      ],
+      "nightLife":[
+         "The Horses Lounge",
+         "The City Squire",
+         "Wine Bar"
+      ],
+      "zipCodes":[
+         "94123"
+      ],
+      "easiestParking":1,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":98,
+      "nhood":"University Mound",
+      "webLink":"http://en.wikipedia.org/wiki/Neighborhoods_in_San_Francisco#University_Mound",
+      "desc":"University Mound is a neighborhood to the north of McLaren Park, and is part of the Portola district. It is roughly bordered by Silver Avenue to the north, University Street to the east, McLaren Park to the south and the Excelsior District to the west. Once considered as a location for a university campus, many of the streets running north–south in University Mound are named after universities, while those running east and west are named for famous educators. University Mound is a primarily residential neighborhood; however it contains a large reservoir, Portola Gardens assisted living community (formerly the University Mound Ladies Home), and Phillip & Sala Burton High School. The neighborhood is significantly diverse in its population it and has a varying landscape.",
+      "ttd":"22 minutes",
+      "rent":"$2,842",
+      "walk":56,
+      "transit":67,
+      "bike":48,
+      "arts":[
+         ""
+      ],
+      "restaurants":[
+         ""
+      ],
+      "groceries":[
+         ""
+      ],
+      "cafes":[
+         ""
+      ],
+      "shopping":[
+         "The Nature of the Beast",
+         "Alejandros trade",
+         "An Added Touch Flowers"
+      ],
+      "nightLife":[
+         ""
+      ],
+      "zipCodes":[
+         "94134"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":99,
+      "nhood":"Upper Market",
+      "webLink":"http://en.wikipedia.org/wiki/Neighborhoods_in_San_Francisco#Upper_Market",
+      "desc":"Upper Market is the area between the southern end of Market Street and Twin Peaks mainly spanning Corbett Avenue and Burnett Avenue. Clayton Street is on the north side of Upper Market, and Portola Drive is to the south.",
+      "ttd":"29 minutes",
+      "rent":"$2,517",
+      "walk":69,
+      "transit":64,
+      "bike":62,
+      "arts":[
+         "Latviešu Nams",
+         "Goodnight Projects",
+         "Diane Holland-SF"
+      ],
+      "restaurants":[
+         "Rin's Thai Restaurant"
+      ],
+      "groceries":[
+         ""
+      ],
+      "cafes":[
+         ""
+      ],
+      "shopping":[
+         "City Appliance Repair"
+      ],
+      "nightLife":[
+         ""
+      ],
+      "zipCodes":[
+         "94131"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":100,
+      "nhood":"Visitacion Valley",
+      "webLink":"http://en.wikipedia.org/wiki/Visitacion_Valley,_San_Francisco,_California",
+      "desc":"Visitacion Valley is roughly defined by McLaren Park and Gleneagles Golf Course to the West, Mansell Blvd and Portola to the north, Bayview Hill and Candlestick Cove to the east, and the San Francisco / San Mateo County line to the south. The streets of this neighborhood straddle the border between San Francisco and Daly City, hence partially blending with the adjacent Daly City neighborhood of Bayshore.",
+      "ttd":"21 minutes",
+      "rent":"$2,020",
+      "walk":72,
+      "transit":67,
+      "bike":49,
+      "arts":[
+         "Specs' Twelve Adler Museum",
+         "Visitation Valley GREENWAY"
+      ],
+      "restaurants":[
+         "Happy Donuts",
+         "Mission Blue",
+         "Frisco's Family Deli",
+         "Taqueria El Buen Sabor",
+         "Buffalo Kitchen",
+         "G & L Bakery & Restaurant"
+      ],
+      "groceries":[
+         "Grocery Outlet",
+         "Leland Market",
+         "Maria #2 Produce Market"
+      ],
+      "cafes":[
+         "Mission Blue",
+         "Peet's Coffee and Tea"
+      ],
+      "shopping":[
+         ""
+      ],
+      "nightLife":[
+         ""
+      ],
+      "zipCodes":[
+         "94112",
+         "94134"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":102,
+      "nhood":"West Portal",
+      "webLink":"http://en.wikipedia.org/wiki/West_Portal,_San_Francisco,_California",
+      "desc":"West Portal is a small neighborhood in San Francisco, California. West Portal is a primarily residential area of the city. The neighborhood's main corridor, West Portal Avenue, serves as a principal shopping district of southwestern San Francisco.",
+      "ttd":"28 minutes",
+      "rent":"$3,485",
+      "walk":93,
+      "transit":73,
+      "bike":64,
+      "arts":[
+         "Cinarts At The Empire",
+         "San Francisco Scottish Rite"
+      ],
+      "restaurants":[
+         "Submarine Center",
+         "Noe Valley Bakery",
+         "Roti Indian Bistro",
+         "Philosopher's Club",
+         "Trattoria Da Vittorio"
+      ],
+      "groceries":[
+         "Parkside Farmer's",
+         "Eezy Freezy",
+         "West Portal Produce Market"
+      ],
+      "cafes":[
+         "Noe Valley Bakery",
+         "Ballast Coffee",
+         "Toast Eatery",
+         "Peet's Coffee and Tea",
+         "Starbucks"
+      ],
+      "shopping":[
+         "Two Cats Comic Book Store",
+         "Book Shop West Portal",
+         "The Music Store",
+         "Walgreens",
+         "Goodwill Boutique"
+      ],
+      "nightLife":[
+         "Philosopher's Club",
+         "Vin Debut",
+         "The Dubliner",
+         "Mc Cartheys Irish Bar",
+         "Voiz Karaoke"
+      ],
+      "zipCodes":[
+         "94127"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":103,
+      "nhood":"Western Addition",
+      "webLink":"http://www.sfgate.com/neighborhoods/sf/westernaddition/",
+      "desc":"San Francisco's Western Addition sits near the geographic center of the city today, but it was once a relatively undeveloped patch just west of the true hub of activity.",
+      "ttd":"14 minutes",
+      "rent":"$1,822",
+      "walk":97,
+      "transit":81,
+      "bike":91,
+      "arts":[
+         ""
+      ],
+      "restaurants":[
+         "Brenda's Meat & Three",
+         "Matching Half Cafe",
+         "Little Star Pizza",
+         "Bob's On Baker",
+         "The Anchovy Bar"
+      ],
+      "groceries":[
+         "Jai Ho Indian Grocery",
+         "Lucky",
+         "Safeway",
+         "Merchant Roots",
+         "Third World Market",
+         "Transfer Market"
+      ],
+      "cafes":[
+         "Boba Guys",
+         "Black/Jasmine",
+         "Folklores Coffee Roastery & Cafe",
+         "Oasis Cafe",
+         "Starbucks"
+      ],
+      "shopping":[
+         "Save-More Market",
+         "Beauty Supply Warehouse",
+         "Convenience Deli & Gro"
+      ],
+      "nightLife":[
+         "The Anchovy Bar",
+         "Fillmore Karaoke",
+         "Mini Bar Sf",
+         "Bar 821"
+      ],
+      "zipCodes":[
+         "94115",
+         "94117"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":104,
+      "nhood":"Westwood Highlands",
+      "webLink":"http://en.wikipedia.org/wiki/Neighborhoods_in_San_Francisco#Westwood_Highlands",
+      "desc":"Westwood Highlands is a small neighborhood northeast of the intersection of Monterey Boulevard and Plymouth Avenue. The Westwood Park neighborhood is to the south, Saint Francis Wood is to the west, Sherwood Forest is to the north and Sunnyside is to the east.",
+      "ttd":"21 minutes",
+      "rent":"$3,153",
+      "walk":69,
+      "transit":67,
+      "bike":51,
+      "arts":[
+         ""
+      ],
+      "restaurants":[
+         ""
+      ],
+      "groceries":[
+         ""
+      ],
+      "cafes":[
+         ""
+      ],
+      "shopping":[
+         ""
+      ],
+      "nightLife":[
+         ""
+      ],
+      "zipCodes":[
+         "94127"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":105,
+      "nhood":"Westwood Park",
+      "webLink":"http://en.wikipedia.org/wiki/Westwood_Park,_San_Francisco,_California",
+      "desc":"Westwood Park is a residential neighborhood located in southwestern San Francisco, California, near St. Francis Wood and City College of San Francisco. Westwood Park is bordered by Monterey Boulevard (to the north), Ocean Avenue (to the south), Faxon Avenue (to the west), and Phelan Avenue now Frida Kahlo Way (to the east). Architecturally, the neighborhood contains a mix of smaller, more modest Craftsman style and Mediterranean style bungalows on a series of concentric oval-shaped streets.",
+      "ttd":"20 minutes",
+      "rent":"$2,827",
+      "walk":84,
+      "transit":77,
+      "bike":68,
+      "arts":[
+         ""
+      ],
+      "restaurants":[
+         "Ocean Ale House",
+         "Sakesan Sushi & Robata",
+         "Champa Garden",
+         "Cherry Blossom Bakery",
+         "Ming Kee Restaurant"
+      ],
+      "groceries":[
+         "Whole Foods",
+         "Power Trading Co.",
+         "Fruit Barn"
+      ],
+      "cafes":[
+         "Philz Coffee",
+         "Cherry Blossom Bakery",
+         "Super Cue Cafe",
+         "Java On Ocean Coffee House",
+         "Indulgence Tea Bar"
+      ],
+      "shopping":[
+         "Walgreens",
+         "City College of San Francisco"
+      ],
+      "nightLife":[
+         "Ocean Ale House",
+         "Sakesan Sushi & Robata",
+         "Indulgence Tea Bar"
+      ],
+      "zipCodes":[
+         "94127"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
    }
 ]
