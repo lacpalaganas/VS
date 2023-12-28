@@ -53,7 +53,7 @@
       ],
       "easiestParking":1,
       "mostAffordable":1,
-      "nearDowntown":0
+      "nearDowntown":1
    },
    {
       "nhoodID":2,
@@ -208,7 +208,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":1,
-      "nearDowntown":1
+      "nearDowntown":0
    },
    {
       "nhoodID":5,
@@ -290,7 +290,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":1,
-      "nearDowntown":1
+      "nearDowntown":0
    },
    {
       "nhoodID":6,
@@ -403,7 +403,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":1,
-      "nearDowntown":1
+      "nearDowntown":0
    },
    {
       "nhoodID":7,
@@ -497,7 +497,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":1,
-      "nearDowntown":1
+      "nearDowntown":0
    },
    {
       "nhoodID":9,
@@ -532,7 +532,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":1,
-      "nearDowntown":1
+      "nearDowntown":0
    },
    {
       "nhoodID":10,
@@ -652,7 +652,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":1,
-      "nearDowntown":1
+      "nearDowntown":0
    },
    {
       "nhoodID":11,
@@ -1081,7 +1081,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":1,
-      "nearDowntown":1
+      "nearDowntown":0
    },
    {
       "nhoodID":17,
@@ -1147,7 +1147,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":1,
-      "nearDowntown":1
+      "nearDowntown":0
    },
    {
       "nhoodID":18,
@@ -1183,7 +1183,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":1,
-      "nearDowntown":1
+      "nearDowntown":0
    },
    {
       "nhoodID":19,
@@ -1284,7 +1284,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":1,
-      "nearDowntown":1
+      "nearDowntown":0
    },
    {
       "nhoodID":21,
@@ -1322,7 +1322,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":1,
-      "nearDowntown":1
+      "nearDowntown":0
    },
    {
       "nhoodID":22,
@@ -1405,7 +1405,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":1,
-      "nearDowntown":1
+      "nearDowntown":0
    },
    {
       "nhoodID":23,
@@ -1538,7 +1538,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":1,
-      "nearDowntown":1
+      "nearDowntown":0
    },
    {
       "nhoodID":25,
@@ -1661,7 +1661,7 @@
       ],
       "easiestParking":1,
       "mostAffordable":1,
-      "nearDowntown":0
+      "nearDowntown":1
    },
    {
       "nhoodID":27,
@@ -1973,7 +1973,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":0,
-      "nearDowntown":1
+      "nearDowntown":0
    },
    {
       "nhoodID":30,
@@ -2008,7 +2008,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":0,
-      "nearDowntown":1
+      "nearDowntown":0
    },
    {
       "nhoodID":31,
@@ -2323,7 +2323,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":0,
-      "nearDowntown":0
+      "nearDowntown":1
    },
    {
       "nhoodID":35,
@@ -2884,7 +2884,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":0,
-      "nearDowntown":0
+      "nearDowntown":1
    },
    {
       "nhoodID":42,
@@ -2954,7 +2954,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":0,
-      "nearDowntown":0
+      "nearDowntown":1
    },
    {
       "nhoodID":44,
@@ -3072,7 +3072,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":0,
-      "nearDowntown":0
+      "nearDowntown":1
    },
    {
       "nhoodID":46,
@@ -3108,7 +3108,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":0,
-      "nearDowntown":0
+      "nearDowntown":1
    },
    {
       "nhoodID":47,
@@ -3169,7 +3169,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":0,
-      "nearDowntown":0
+      "nearDowntown":1
    },
    {
       "nhoodID":48,
@@ -3275,7 +3275,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":0,
-      "nearDowntown":0
+      "nearDowntown":1
    },
    {
       "nhoodID":49,
@@ -3818,7 +3818,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":0,
-      "nearDowntown":0
+      "nearDowntown":1
    },
    {
       "nhoodID":57,
@@ -3893,7 +3893,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":0,
-      "nearDowntown":0
+      "nearDowntown":1
    },
    {
       "nhoodID":58,
@@ -4036,7 +4036,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":0,
-      "nearDowntown":0
+      "nearDowntown":1
    },
    {
       "nhoodID":59,
@@ -4091,7 +4091,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":0,
-      "nearDowntown":0
+      "nearDowntown":1
    },
    {
       "nhoodID":60,
@@ -4238,7 +4238,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":0,
-      "nearDowntown":0
+      "nearDowntown":1
    },
    {
       "nhoodID":62,
@@ -4492,7 +4492,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":0,
-      "nearDowntown":0
+      "nearDowntown":1
    },
    {
       "nhoodID":64,
@@ -4561,7 +4561,10 @@
       "zipCodes":[
          "94111",
          "94133"
-      ]
+      ],
+       "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":1
    },
    {
       "nhoodID":65,
@@ -4598,7 +4601,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":0,
-      "nearDowntown":0
+      "nearDowntown":1
    },
    {
       "nhoodID":66,
@@ -4634,7 +4637,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":0,
-      "nearDowntown":0
+      "nearDowntown":1
    },
    {
       "nhoodID":67,
@@ -4968,7 +4971,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":0,
-      "nearDowntown":0
+      "nearDowntown":1
    },
    {
       "nhoodID":70,
@@ -5034,7 +5037,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":0,
-      "nearDowntown":0
+      "nearDowntown":1
    },
    {
       "nhoodID":71,
@@ -5241,7 +5244,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":0,
-      "nearDowntown":0
+      "nearDowntown":1
    },
    {
       "nhoodID":75,
@@ -5317,7 +5320,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":0,
-      "nearDowntown":0
+      "nearDowntown":1
    },
    {
       "nhoodID":76,
@@ -5380,7 +5383,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":0,
-      "nearDowntown":0
+      "nearDowntown":1
    },
    {
       "nhoodID":77,
@@ -5448,7 +5451,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":0,
-      "nearDowntown":0
+      "nearDowntown":1
    },
    {
       "nhoodID":78,
@@ -5503,7 +5506,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":0,
-      "nearDowntown":0
+      "nearDowntown":1
    },
    {
       "nhoodID":79,
@@ -5735,7 +5738,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":0,
-      "nearDowntown":0
+      "nearDowntown":1
    },
    {
       "nhoodID":83,
@@ -6121,7 +6124,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":1,
-      "nearDowntown":0
+      "nearDowntown":1
    },
    {
       "nhoodID":91,
@@ -6381,7 +6384,7 @@
       ],
       "easiestParking":1,
       "mostAffordable":0,
-      "nearDowntown":0
+      "nearDowntown":1
    },
    {
       "nhoodID":97,
@@ -6429,7 +6432,7 @@
       ],
       "easiestParking":1,
       "mostAffordable":0,
-      "nearDowntown":0
+      "nearDowntown":1
    },
    {
       "nhoodID":98,
@@ -6656,7 +6659,7 @@
       ],
       "easiestParking":0,
       "mostAffordable":0,
-      "nearDowntown":0
+      "nearDowntown":1
    },
    {
       "nhoodID":104,
@@ -6739,6 +6742,6 @@
       ],
       "easiestParking":0,
       "mostAffordable":0,
-      "nearDowntown":0
+      "nearDowntown":1
    }
 ]
