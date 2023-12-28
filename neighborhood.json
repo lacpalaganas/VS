@@ -1285,5 +1285,330 @@
       "easiestParking":0,
       "mostAffordable":1,
       "nearDowntown":1
+   },
+   {
+      "nhoodID":21,
+      "nhood":"Diamond Heights",
+      "webLink":"http://en.wikipedia.org/wiki/Diamond_Heights,_San_Francisco",
+      "desc":"Diamond Heights is a neighborhood in central San Francisco, California, roughly bordered by Diamond Heights Boulevard and Noe Valley to the north and east and Glen Canyon Park to the south and west. It is built on three hills: Red Rock Heights on the northwest, Gold Mine Hill in center, and Fairmount Heights (including Billy Goat Hill) on the southeast.",
+      "ttd":"27 minutes",
+      "rent":"$2,998",
+      "walk":76,
+      "transit":68,
+      "bike":59,
+      "arts":[
+         ""
+      ],
+      "restaurants":[
+         "Harbor Villa Restaurant",
+         "Creighton's Bakery and Cafe",
+         "Heavenly Cafe"
+      ],
+      "groceries":[
+         "Safeway"
+      ],
+      "cafes":[
+         "Starbucks"
+      ],
+      "shopping":[
+         "Walgreens",
+         "Cosmetics Fillers"
+      ],
+      "nightLife":[
+         "Baker Sports Bar and Grill II"
+      ],
+      "zipCodes":[
+         "94131"
+      ],
+      "easiestParking":0,
+      "mostAffordable":1,
+      "nearDowntown":1
+   },
+   {
+      "nhoodID":22,
+      "nhood":"Dolores Heights",
+      "webLink":"http://en.wikipedia.org/wiki/Neighborhoods_in_San_Francisco#Dolores_Heights",
+      "desc":"Dolores Heights is a hilly neighborhood named after the eponymous hill within the neighborhood. It borders the Castro to the north, Dolores Park to the east, Noe Valley to the south, and Upper Market to the west. Parts of it are so steep that the Muni Metro J Church line has to be routed through Dolores Park and into the Liberty Hill area before rejoining Church Street in Noe Valley at 22nd street. It contains the Liberty Hill Historic District,[9] and the Liberty Street Historic District.",
+      "ttd":"21 minutes",
+      "rent":"$2,502",
+      "walk":97,
+      "transit":85,
+      "bike":73,
+      "arts":[
+         "Tom and Jerry's House",
+         "Amado's",
+         "Back to the Picture",
+         "Artist's Television",
+         "Ame's Alley Gallery",
+         "Other Cinema"
+      ],
+      "restaurants":[
+         "Senor Sisig",
+         "Lolo",
+         "Smitten Ice Cream",
+         "Woods Cerveceria",
+         "Lone Palm",
+         "Lovejoys' Tea Room",
+         "Chloe's Cafe",
+         "Tuba Authentic Turkish",
+         "Mr Digby's",
+         "Jumpstart Coffee",
+         "Fiore Caffe",
+         "The Liberties",
+         "Plain Jane",
+         "Laksa",
+         "Javelencia Cafe",
+         "Fenikkusu",
+         "Bernal Heights Pizzeria",
+         "Jake's Castro Kitchen",
+         "El Porteno Empanadas"
+      ],
+      "groceries":[
+         "26th & Guerrero Market",
+         "Guerrero Hill Market",
+         "23rd & Guerrero Market",
+         "Kokak Chocolates",
+         "Modern Market"
+      ],
+      "cafes":[
+         "Lovejoy's Tea Room",
+         "Chloe's Cafe",
+         "Bebebar",
+         "Jumpstart coffee",
+         "Fiore Caffe",
+         "Javalenica Cafe"
+      ],
+      "shopping":[
+         "Dog Eared Books",
+         "Topdrawer",
+         "After Life",
+         "Tokyo Futons",
+         "Mill",
+         "Chrome Industries",
+         "Azalea Boutique",
+         "Echo Furniture",
+         "Purist Boutique",
+         "The Woods",
+         "San Francycle",
+         "RetroFit",
+         "Mabuhay"
+      ],
+      "nightLife":[
+         "Woods Cerveceria",
+         "Lone Palm",
+         "Fiore Caffe",
+         "The Liberties",
+         "Hangover City"
+      ],
+      "zipCodes":[
+         "94114"
+      ],
+      "easiestParking":0,
+      "mostAffordable":1,
+      "nearDowntown":1
+   },
+   {
+      "nhoodID":23,
+      "nhood":"Duboce Triangle",
+      "webLink":"http://en.wikipedia.org/wiki/Duboce_Triangle,_San_Francisco,_California",
+      "desc":"The Duboce Triangle is a neighborhood of San Francisco, California, located below Buena Vista Park and between the neighborhoods of the Castro/Eureka Valley, the Mission District, and the Lower Haight.",
+      "ttd":"20 minutes",
+      "rent":"$2,123",
+      "walk":98,
+      "transit":93,
+      "bike":89,
+      "arts":[
+         "Swedish American Hall",
+         "The Detour",
+         "Churchill",
+         "Beaux",
+         "Cafe Du Nord",
+         "The Office",
+         "Lookout",
+         "Art Attack SF"
+      ],
+      "restaurants":[
+         "L'Ardoise",
+         "Super Duper Burgers",
+         "Last Rites",
+         "Beit Rima",
+         "Swedish American Hall",
+         "Willkommen",
+         "Wooden Spoon",
+         "El Castillito",
+         "La Mediateranee",
+         "Duboce Park Cafe",
+         "Canela Bistro Bar",
+         "Jasmine Garden",
+         "Cafe Du Nord",
+         "Catch",
+         "The Viking Room",
+         "Lookout",
+         "The Slice on-14th Street",
+         "Squat and Gobble Cafe",
+         "Tacos Club",
+         "Cathay Express",
+         "Casa Mexicana",
+         "Taco Boys",
+         "Rosenberg Food and Beverage",
+         "Sushi Urashima"
+      ],
+      "groceries":[
+         "Healthy Spirits",
+         "Castro Farmers Market",
+         "Courtney Produce",
+         "Golden Natural Foods",
+         "Golden Produce",
+         "Safeway",
+         "GNC"
+      ],
+      "cafes":[
+         "Duboce Park Cafe",
+         "Jamba",
+         "Squat and Gobble Cafe",
+         "Starbucks"
+      ],
+      "shopping":[
+         "Jeffrey's Natural Pet",
+         "revolver",
+         "Walgreens",
+         "Little Ark Grooming Shop",
+         "Earthen",
+         "Community Pharmacy",
+         "Guy's Flowers",
+         "Softwearlab",
+         "5Titch"
+      ],
+      "nightLife":[
+         "Last Rites",
+         "Blackbird",
+         "Willkommen",
+         "The Detour",
+         "Churchill",
+         "Beaux",
+         "Cafe Du Nord",
+         "The Office",
+         "Lookout"
+      ],
+      "zipCodes":[
+         "94114"
+      ],
+      "easiestParking":0,
+      "mostAffordable":1,
+      "nearDowntown":1
+   },
+   {
+      "nhoodID":24,
+      "nhood":"Eureka Valley",
+      "webLink":"http://en.wikipedia.org/wiki/Eureka_Valley,_San_Francisco,_California",
+      "desc":"Eureka Valley is a neighborhood in San Francisco, primarily a quiet residential neighborhood but boasting one of the most visited sub-neighborhoods in the city, The Castro.",
+      "ttd":"24 minutes",
+      "rent":"$2,576",
+      "walk":93,
+      "transit":79,
+      "bike":66,
+      "arts":[
+         "Ba Ba Loons and Tunes"
+      ],
+      "restaurants":[
+         "Neighbor's Corner",
+         "Mama Ji's",
+         "Spike's Coffee & Tea"
+      ],
+      "groceries":[
+         "Noe Hill Market",
+         "Castro Village Wine & Co.",
+         "Upper Terrace Market",
+         "Eureka Market"
+      ],
+      "cafes":[
+         "Neighbor's Corner",
+         "Spike's Coffee & Tea"
+      ],
+      "shopping":[
+         "New Deal",
+         "Canadian Pharmacy"
+      ],
+      "nightLife":[
+         
+      ],
+      "zipCodes":[
+         "94110",
+         "94114"
+      ],
+      "easiestParking":0,
+      "mostAffordable":1,
+      "nearDowntown":1
+   },
+   {
+      "nhoodID":25,
+      "nhood":"Excelsior",
+      "webLink":"http://en.wikipedia.org/wiki/Excelsior_District,_San_Francisco,_California",
+      "desc":"The Excelsior District is located along Mission Street, east of San Jose Ave, south of Interstate 280 Southern Fwy, west of John McLaren Park, and somewhat north of Geneva Avenue.",
+      "ttd":"23 minutes",
+      "rent":"$2,255",
+      "walk":86,
+      "transit":79,
+      "bike":55,
+      "arts":[
+         "Italian American Social"
+      ],
+      "restaurants":[
+         "El Farolito",
+         "Henry's Hunan Restaurant",
+         "Don Chuy's Mexi-Mercado",
+         "Ty Sandwich",
+         "Taqueria Vallarta",
+         "Mr. T Cafe",
+         "Super Star Restaurant",
+         "Mexico Tipico",
+         "Hawaiian Drive Inn",
+         "Calabria Bros",
+         "Los Planes De Renderos",
+         "Little Caesars Pizza",
+         "The Salad Palace",
+         "Pupuseria Metapan",
+         "Round Table Pizza",
+         "Glaze DonutsEl Gran Taco Loco",
+         "Subway",
+         "North Beach Pizza",
+         "Claddagh Coffee",
+         "Nameless Tea & Coffee",
+         "Italian American Social",
+         "Double Shot Coffee",
+         "Stop N Wrap",
+         "Western Donut Shop"
+      ],
+      "groceries":[
+         "Hilda's Mart & Bake Shop",
+         "Yick's Liquors",
+         "Casa Lucaz 3",
+         "San Francisco Farmer Market"
+      ],
+      "cafes":[
+         "Excelsior Coffee",
+         "Ty Sandwich",
+         "Mr. T Cafe",
+         "Claddagh Coffee",
+         "Nameless Tea & coffee",
+         "Double Shot Coffee",
+         "Stop N Wrap"
+      ],
+      "shopping":[
+         "T-mobile",
+         "Walgreens",
+         "Daniels Pharmacy",
+         "Kings Nail Salon"
+      ],
+      "nightLife":[
+         "Rocks Den"
+      ],
+      "zipCodes":[
+         "94112",
+         "94134"
+      ],
+      "easiestParking":0,
+      "mostAffordable":1,
+      "nearDowntown":0
    }
 ]
