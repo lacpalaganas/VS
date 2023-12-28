@@ -4904,5 +4904,837 @@
       "easiestParking":0,
       "mostAffordable":0,
       "nearDowntown":0
+   },
+   {
+      "nhoodID":69,
+      "nhood":"Pacific Heights",
+      "webLink":"http://www.sfgate.com/neighborhoods/sf/pacificheights/",
+      "desc":"Pacific Heights is a neighborhood in San Francisco, California. It has panoramic views of the Golden Gate Bridge, San Francisco Bay, the Palace of Fine Arts, Alcatraz, and the Presidio.",
+      "ttd":"13 minutes",
+      "rent":"$2,859",
+      "walk":97,
+      "transit":80,
+      "bike":66,
+      "arts":[
+         "Clay Theatre",
+         "Haas-Lilienthal House",
+         "Labyrinth at CPMC",
+         "Academy of Art University",
+         "Anthony Meier Fine Arts",
+         "The Cottage Industry"
+      ],
+      "restaurants":[
+         "B. Patisserie",
+         "Salt & Straw",
+         "B. On the Go",
+         "The Tailor's Son",
+         "The Snug",
+         "Pizzeria Delfina",
+         "Smitten Ice Cream",
+         "Jane on Filmore",
+         "Jackson Filmore",
+         "Blue Fog Market",
+         "Tataki",
+         "La Mediterranean",
+         "Matterhorn Restaurant",
+         "Sift Cupcake & Dessert Bar",
+         "Chouquet's",
+         "Santino's Vino",
+         "Troya",
+         "Via Veneto",
+         "Curbside Cafe",
+         "Apizza",
+         "Tea Hut",
+         "Scopo Divino",
+         "Tacobar",
+         "Notes from Underground",
+         "Wasabi & Ginger"
+      ],
+      "groceries":[
+         ""
+      ],
+      "cafes":[
+         ""
+      ],
+      "shopping":[
+         ""
+      ],
+      "nightLife":[
+         ""
+      ],
+      "zipCodes":[
+         "94109",
+         "94115"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":70,
+      "nhood":"Panhandle",
+      "webLink":"http://en.wikipedia.org/wiki/Panhandle_(San_Francisco)",
+      "desc":"The Panhandle is a public park in San Francisco, California, so named because it forms a panhandle with Golden Gate Park. It is long and narrow, being three-quarters of a mile (eight blocks) long and just one block wide. Fell and Oak Streets border it to the north and south, Baker Street to the east, and to the west Stanyan Street which separates the smaller Panhandle from the much larger Golden Gate Park.",
+      "ttd":"19 minutes",
+      "rent":"$2,266",
+      "walk":96,
+      "transit":74,
+      "bike":93,
+      "arts":[
+         "Wester Editions",
+         "B-ro Palace",
+         "SF Parlor Opera"
+      ],
+      "restaurants":[
+         "Fool's Errand",
+         "Bar Crudo",
+         "Souvla",
+         "Jū-ni",
+         "4505 Burgers And BBQ",
+         "Rt Rotisserie - L",
+         "Nopalito",
+         "Manitas Cafe & Deli"
+      ],
+      "groceries":[
+         "Falletti Foods",
+         "Home Service Market",
+         "Parkside Market",
+         "Divisadero Farmers' Market",
+         "New Star-Ell Liquor",
+         "Cindy's Market",
+         "Nopa Corner Market"
+      ],
+      "cafes":[
+         "Manitas Cafe & Deli",
+         "Karma Cafe",
+         "Amitis Cafe",
+         "Central Coffee Tea & Spice",
+         "Bean Bag Cafe",
+         "Starbucks",
+         "Peet's Coffee and Tea"
+      ],
+      "shopping":[
+         "Freewheel Bike Shop",
+         "Tanner Goods",
+         "ACME Floral",
+         "Food 24 Convenience Market",
+         "SF Wheels",
+         "Panhandle Guitars",
+         "Feller Roland-Violin Makers"
+      ],
+      "nightLife":[
+         "Fool's Errand",
+         "Wine Kitchen",
+         "Club Waziema",
+         "B-Ro Palace",
+         "Fellbury Creative"
+      ],
+      "zipCodes":[
+         "94117"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":71,
+      "nhood":"Parkmerced",
+      "webLink":"http://en.wikipedia.org/wiki/Parkmerced,_San_Francisco,_California",
+      "desc":"Parkmerced is a neighborhood in San Francisco, California. It was designed by architects Leonard Schultze and Thomas Dolliver Church in the early 1940s. Parkmerced is the second-largest single-owner neighborhood of apartment blocks west of the Mississippi River after Park La Brea in Los Angeles. It was a planned neighborhood of high-rise apartment towers and low-rise garden apartments in southwestern San Francisco for middle-income tenants.",
+      "ttd":"26 minutes",
+      "rent":"$2,271",
+      "walk":77,
+      "transit":64,
+      "bike":65,
+      "arts":[
+         "The Depot Sf",
+         "Peace",
+         "Rack-n-Cue",
+         "McKenna Theater",
+         "SFSU Little Theater",
+         "Mashouf Performing Arts Center"
+      ],
+      "restaurants":[
+         "Hall of Flame Burger",
+         "Ike's Place",
+         "Cafe Rosso",
+         "Taqueria Girasol",
+         "The Village Market and Pizza",
+         "Papa John's Pizza",
+         "Taqueria Dos Charros",
+         "Quickly"
+      ],
+      "groceries":[
+         "Natural Sensations"
+      ],
+      "cafes":[
+         "Cafe Rosso",
+         "Peet's Coffee and Tea",
+         "Station Cafe",
+         "Spressa Coffee Bar"
+      ],
+      "shopping":[
+         "SFSU Bookstore"
+      ],
+      "nightLife":[
+         ""
+      ],
+      "zipCodes":[
+         "94132"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":72,
+      "nhood":"Parkside",
+      "webLink":"http://en.wikipedia.org/wiki/Neighborhoods_in_San_Francisco#Parkside",
+      "desc":"Parkside is to the south of the Sunset District, mainly south of Quintara Street between 19th Avenue and Sunset Boulevard. Abraham Lincoln High School is located on 24th Avenue, and the Parkside Library is located on Taraval Street at 23rd Avenue. Stern Grove borders the neighborhood to the south.",
+      "ttd":"34 minutes",
+      "rent":"$2,782",
+      "walk":83,
+      "transit":62,
+      "bike":61,
+      "arts":[
+         "Lost and Found"
+      ],
+      "restaurants":[
+         "House of Pancakes",
+         "Lou's Cafe",
+         "Marco Polo Italian Ice Cream",
+         "George's Zoo Liquor Deli",
+         "Fiery Hot Pot Buffet",
+         "Dumpling Kitchen",
+         "Mr. Bread",
+         "Dumpling Specialist"
+      ],
+      "groceries":[
+         "Gene's Liquor",
+         "Sunset II Supermarket",
+         "Anna Mini Mart",
+         "Linda's Liquor"
+      ],
+      "cafes":[
+         "Mr. Bread",
+         "Java Beach At The Zoo",
+         "Rolling Out",
+         "Chalos",
+         "New Taraval Cafe",
+         "Super Cue Cafe",
+         "Mellow's Cafe",
+         "Antigua Coffee Shop"
+      ],
+      "shopping":[
+         "Brothers Popadopolous",
+         "Speedway Express",
+         "Walgreens",
+         "7-Eleven",
+         "Versus Games",
+         "SmartyPup",
+         "Aqua Surf Shop"
+      ],
+      "nightLife":[
+         "Parkside Tavern",
+         "Grandma's Saloon",
+         "Irish Cultural Center",
+         "Shannon Arms Irish Pub",
+         "Costello's Four Deuces",
+         "Lost and Found",
+         "Karl’s Beacon",
+         "The Mango Tree"
+      ],
+      "zipCodes":[
+         "94116",
+         "94127",
+         "94132"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":73,
+      "nhood":"Parnassus Heights",
+      "webLink":"http://en.wikipedia.org/wiki/Neighborhoods_in_San_Francisco#Parnassus",
+      "desc":"South of Cole Valley and Ashbury Heights; north of Claredon Heights and Forest Knolls; east of Inner Sunset; west of Corona Heights.",
+      "ttd":"29 minutes",
+      "rent":"$2,505",
+      "walk":83,
+      "transit":66,
+      "bike":61,
+      "arts":[
+         "Circus Center"
+      ],
+      "restaurants":[
+         "Ladle & Leaf",
+         "Caffe Terzetto Express",
+         "Subway",
+         "Kezar Pizzetta",
+         "Moffitt Cafe at UCSF",
+         "Cafe Bellini",
+         "Panda Express",
+         "Carmelina's Taqueria"
+      ],
+      "groceries":[
+         "Parkview Market",
+         "UCSF Parnassus Farmers' Market",
+         "Fresh Organics",
+         "UCSF Parnassus RecSports",
+         "New Age Creations-Herbal Bodyworks",
+         "Gregory Condes Wines"
+      ],
+      "cafes":[
+         "Caffe Terzetto Express",
+         "Starbucks",
+         "Moffitt Cafe at UCSF",
+         "Cafe Bellini",
+         "Moffitt Cafe Express",
+         "Peet's Coffee and Tea"
+      ],
+      "shopping":[
+         "Walgreens",
+         "Sunny Country"
+      ],
+      "nightLife":[
+         ""
+      ],
+      "zipCodes":[
+         "94117"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":74,
+      "nhood":"Peralta Heights",
+      "webLink":"https://www.neighborhoodscout.com/ca/san-francisco/peralta-heights",
+      "desc":"Peralta Heights, nestled in the heart of San Francisco, is a charming neighborhood known for its breathtaking hilltop views, historic Victorian homes, and a vibrant community atmosphere.",
+      "ttd":"18 minutes",
+      "rent":"$1,758",
+      "walk":89,
+      "transit":77,
+      "bike":74,
+      "arts":[
+         "Circus Bella"
+      ],
+      "restaurants":[
+         "Precita Park Cafe",
+         "Hop Oast Pub & Brewery",
+         "Bernal Bakery"
+      ],
+      "groceries":[
+         ""
+      ],
+      "cafes":[
+         ""
+      ],
+      "shopping":[
+         "Allstars Gas Station"
+      ],
+      "nightLife":[
+         "Hop Oast Pub & Brewery"
+      ],
+      "zipCodes":[
+         "94110"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":75,
+      "nhood":"Polk Gulch",
+      "webLink":"http://en.wikipedia.org/wiki/Polk_Gulch,_San_Francisco,_California",
+      "desc":"Polk Gulch, a section of Polk Street is sometimes defined as the commercial section of Polk Street, roughly between Eddy Street to the south and California Street to the north. The Polk Corridor Business Association has announced in June 2006 the local business owners intend to publicize the neighborhood as \"Polk Village\"",
+      "ttd":"9 minutes",
+      "rent":"$1,939",
+      "walk":100,
+      "transit":85,
+      "bike":78,
+      "arts":[
+         "The Cinch",
+         "Hi-Lo Club",
+         "Rouge",
+         "Studio Gallery",
+         "Antique Vibrator Museum",
+         "Studio Gallery",
+         "SCRAP Escape Room Puzzle Connection"
+      ],
+      "restaurants":[
+         "Bob's Donut & Pastry Shop",
+         "Basik Cafe",
+         "Saint Frank Coffee",
+         "House Of Prime Rib42",
+         "Berber",
+         "Robberbaron",
+         "Blue Barn Gourmet",
+         "Mymy Coffee Shop"
+      ],
+      "groceries":[
+         "Cheese Plus",
+         "William Cross Wine Merchants",
+         "Biondivino Wine Boutique",
+         "The Candy Store",
+         "The Jug Shop",
+         "Royal Liquors",
+         "Polk & Green Produce Market",
+         "Real Food Company"
+      ],
+      "cafes":[
+         "Basik Cafe",
+         "Saint Frank Coffee",
+         "Mymy Coffee Shop",
+         "Philz Coffee",
+         "Loving Cup",
+         "Common Sage",
+         "Teaspoon",
+         "Peet's Coffee and Tea"
+      ],
+      "shopping":[
+         "High Trails",
+         "Russian Hill Bookstore",
+         "Big Swingin' Cycles",
+         "Bow Wow Meow",
+         "Marine Layer",
+         "Wags Pet Wash & Boutique",
+         "Plant Warehouse",
+         "Molte Cose"
+      ],
+      "nightLife":[
+         "Robberbaron",
+         "Macondray",
+         "Woods Polk Station",
+         "Amelie",
+         "The Cinch",
+         "Harper & Rye",
+         "Hi-Lo Club",
+         "Soda Popinski's"
+      ],
+      "zipCodes":[
+         "94109"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":76,
+      "nhood":"Portola",
+      "webLink":"http://en.wikipedia.org/wiki/Neighborhoods_in_San_Francisco#portola",
+      "desc":"Portola is a neighborhood in the southeastern part of San Francisco, northeast of McLaren Park. It is roughly bordered by San Bruno Avenue and the James Lick Freeway (U.S. Route 101) to the east, Mansell Street to the south, University Street to the west and the Southern Freeway (Interstate 280) to the north. The adjacent Portola Heights extension lies west uphill from University Street to the Excelsior District, bordering McLaren Park to the south.",
+      "ttd":"18 minutes",
+      "rent":"$2,313",
+      "walk":79,
+      "transit":69,
+      "bike":58,
+      "arts":[
+         "El Toro Night Club",
+         "California Pioneer"
+      ],
+      "restaurants":[
+         "Fancy Wheatfield Bakery",
+         "Churn Urban Creamery",
+         "Jim Georgie's Donuts",
+         "Tops Cafe",
+         "Banh Mi House",
+         "Fat Beli Deli",
+         "Wing Hing Restaurant",
+         "Red House Bakery"
+      ],
+      "groceries":[
+         "Grocery Outlet",
+         "La Loma Produce No 7",
+         "San Bruno Supermarket",
+         "Foothill Market",
+         "Tierra Santa Market",
+         "White Palace Liquor Store",
+         "Bus Stop Liquors & Deli"
+      ],
+      "cafes":[
+         "Banh Mi House",
+         "5 Degree Tea House",
+         "Tea Plus",
+         "Chef Li's Cafe",
+         "2546 Cafe",
+         "Banh Mi & Rolls",
+         "Hey Neighbor",
+         "Panda Boba"
+      ],
+      "shopping":[
+         "Walgreens",
+         "Tgif Beauty Supply",
+         "Metro by T-Mobile",
+         "Cricket Wireless",
+         "The Botany Shop Florist"
+      ],
+      "nightLife":[
+         "El Toro Night Club",
+         "New Judnich's",
+         "Club Intimo"
+      ],
+      "zipCodes":[
+         "94112",
+         "94134"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":77,
+      "nhood":"Potrero Hill",
+      "webLink":"http://www.sfgate.com/neighborhoods/sf/potrerohill/",
+      "desc":"Potrero Hill is a residential neighborhood in San Francisco, California. A working-class neighborhood until gentrification in the late 1990s, it is now home to mostly upper-income residents.",
+      "ttd":"17 minutes",
+      "rent":"$2,917",
+      "walk":90,
+      "transit":71,
+      "bike":71,
+      "arts":[
+         ""
+      ],
+      "restaurants":[
+         "Anchor Public Taps",
+         "Plow",
+         "Anchor Brewing Company",
+         "Junior",
+         "Two Sons Sandwiches",
+         "Live Sushi Bar"
+      ],
+      "groceries":[
+         "Ruby Wine",
+         "Whole Foods",
+         "Good Life Grocery-Potrero Hill",
+         "Chiotras Grocery",
+         "Grand Seven Food Liquor & Deli",
+         "Kansas Food Market",
+         "All States Best Foods",
+         "New Potrero Market"
+      ],
+      "cafes":[
+         "Philz Coffee",
+         "Farley's Coffeehouse",
+         "Parker Cafe",
+         "Ecco Caffe",
+         "La Stazione Coffee & Wine Bar",
+         "Thinkers Cafe",
+         "La Lucha Coffee Bar",
+         "VBowls"
+      ],
+      "shopping":[
+         "Pawtrero Hill BathHouse & Feed",
+         "Discount Fabrics",
+         "Christopher's Books",
+         "Books",
+         "San Francisco Guitarworks",
+         "Bell and Trunk",
+         "The Futon Shop",
+         "Deluxe Distribution"
+      ],
+      "nightLife":[
+         "Anchor Public Taps",
+         "Anchor Brewing Company",
+         "Junior",
+         "Thee Parkside",
+         "Connecticut Yankee",
+         "La Stazione Coffee & Wine Bar",
+         "Danzhaus Dance Center aka the Gingerbread House",
+         "Il Pirata"
+      ],
+      "zipCodes":[
+         "94107"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":78,
+      "nhood":"Presidio Heights",
+      "webLink":"http://en.wikipedia.org/wiki/Neighborhoods_in_San_Francisco#Presidio_Heights",
+      "desc":"Presidio Heights is a small, affluent neighborhood located between the Presidio and the Laurel Heights neighborhood. It is bordered by Pacific Avenue and the Presidio parklands to the north, Arguello Boulevard and the Richmond District to the west, California Street (Laurel Village shopping center, previously the Laurel Hills Cemetery) and Laurel Heights to the south, and Presidio Avenue and Pacific Heights to the east.",
+      "ttd":"18 minutes",
+      "rent":"$2,328",
+      "walk":92,
+      "transit":68,
+      "bike":76,
+      "arts":[
+         "Vogue Theatre",
+         "San Francisco Decorator",
+         "Twiga Tribal / African Art",
+         "Pacific Musical Society"
+      ],
+      "restaurants":[
+         "Spruce",
+         "Sorrel",
+         "Sociale",
+         "Garibaldi's",
+         "Magic Flute Garden",
+         "Picnix Bistro",
+         "Presidio Kebabs & Gyro",
+         "Smoking Warehouse"
+      ],
+      "groceries":[
+         "California & Lyon Market",
+         "Wilking Wine & Liquor"
+      ],
+      "cafes":[
+         "As Quoted",
+         "Cafe Luna"
+      ],
+      "shopping":[
+         "Pet Food Express",
+         "A Runner's Mind",
+         "Goodbyes Consignment",
+         "Laurel Village Shopping Center",
+         "Hudson Grace"
+      ],
+      "nightLife":[
+         "1 Presidio",
+         "Swank - a Joie de Vivre Cocktail Lounge",
+         "Laureate Bar & Lounge"
+      ],
+      "zipCodes":[
+         "94118",
+         "94115",
+         "94129"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":79,
+      "nhood":"Presidio National Park",
+      "webLink":"http://www.nps.gov/prsf/index.htm",
+      "desc":"The Presidio of San Francisco is a park and former U.S. Army post on the northern tip of the San Francisco Peninsula in San Francisco, California, and is part of the Golden Gate National Recreation Area.",
+      "ttd":"22 minutes",
+      "rent":"$2,000",
+      "walk":40,
+      "transit":54,
+      "bike":63,
+      "arts":[
+         "Vogue Theatre",
+         "San Francisco Decorator",
+         "Twiga Tribal / African Art",
+         "Pacific Musical Society"
+      ],
+      "restaurants":[
+         "Spruce",
+         "Sorrel",
+         "Sociale",
+         "Garibaldi's",
+         "Magic Flute Garden",
+         "Picnix Bistro",
+         "Presidio Kebabs & Gyro",
+         "Smoking Warehouse"
+      ],
+      "groceries":[
+         "California & Lyon Market",
+         "Wilking Wine & Liquor"
+      ],
+      "cafes":[
+         "As Quoted",
+         "Cafe Luna"
+      ],
+      "shopping":[
+         "Pet Food Express",
+         "A Runner's Mind",
+         "Goodbyes Consignment",
+         "Laurel Village Shopping Center",
+         "Hudson Grace"
+      ],
+      "nightLife":[
+         "1 Presidio",
+         "Swank - a Joie de Vivre Cocktail Lounge",
+         "Laureate Bar & Lounge"
+      ],
+      "zipCodes":[
+         "94118",
+         "94115",
+         "94129",
+         "94123",
+         "94121"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":80,
+      "nhood":"Presidio Terrace",
+      "webLink":"https://en.wikipedia.org/wiki/Presidio_Terrace",
+      "desc":"Presidio Terrace is a small, extremely affluent gated neighborhood in San Francisco that was the first of the master-planned communities built in the western part of the city. It consists of 36 large lots laid out around a single privately owned street, also called Presidio Terrace, which takes the form of a two-way access street leading to a one-way elliptical cul-de-sac.",
+      "ttd":"23 minutes",
+      "rent":"$2,392",
+      "walk":94,
+      "transit":66,
+      "bike":87,
+      "arts":[
+         "Vogue Theatre",
+         "San Francisco Decorator",
+         "Twiga Tribal / African Art",
+         "Pacific Musical Society"
+      ],
+      "restaurants":[
+         "Spruce",
+         "Sorrel",
+         "Sociale",
+         "Garibaldi's",
+         "Magic Flute Garden",
+         "Picnix Bistro",
+         "Presidio Kebabs & Gyro",
+         "Smoking Warehouse"
+      ],
+      "groceries":[
+         "California & Lyon Market",
+         "Wilking Wine & Liquor"
+      ],
+      "cafes":[
+         "As Quoted",
+         "Cafe Luna"
+      ],
+      "shopping":[
+         "Pet Food Express",
+         "A Runner's Mind",
+         "Goodbyes Consignment",
+         "Laurel Village Shopping Center",
+         "Hudson Grace"
+      ],
+      "nightLife":[
+         "1 Presidio",
+         "Swank - a Joie de Vivre Cocktail Lounge",
+         "Laureate Bar & Lounge"
+      ],
+      "zipCodes":[
+         "94118",
+         "94115",
+         "94129",
+         "94123",
+         "94121"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":81,
+      "nhood":"Rincon Hill",
+      "webLink":"http://en.wikipedia.org/wiki/Neighborhoods_in_San_Francisco#Rincon_Hill",
+      "desc":"Rincon Hill, one of the hills of San Francisco, was a former industrial, and now a developing highrise neighborhood located south of the Financial District, in the South of Market area, as it also serves as an anchor to the Bay Bridge. Due to its proximity to downtown, following the Gold Rush this was San Francisco's first affluent neighborhood, but later became mostly industrial.",
+      "ttd":"6 minutes",
+      "rent":"$2,751",
+      "walk":93,
+      "transit":100,
+      "bike":68,
+      "arts":[
+         "Terra Gallery & Event Venue",
+         "Google SF - Sound City",
+         "Name This Piece"
+      ],
+      "restaurants":[
+         "DragonEats",
+         "Waterbar",
+         "Epic Roasthouse",
+         "Socola Chocolatier +",
+         "Gabby Cafe",
+         "Prospect",
+         "Rooster & Rice",
+         "Nommo",
+         "Local Kitchen & Wine Merchant",
+         "Hinodeya Ramen To Go"
+      ],
+      "groceries":[
+         "Woodlands Market",
+         "Macallan Whiskey"
+      ],
+      "cafes":[
+         "Socola Chocolatier",
+         "Gabby Cafe",
+         "Joe The Juice New Yo",
+         "Fearless Coffee",
+         "W6 Coffee Bar"
+      ],
+      "shopping":[
+         "Woodlands Pet Shop",
+         "Koshland Pharm",
+         "MERAKI Woods"
+      ],
+      "nightLife":[
+         "Nommo",
+         "Shinobi Headquarters",
+         "Red Dog Restaurant",
+         "Chrome Bar"
+      ],
+      "zipCodes":[
+         "94105"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":1
+   },
+   {
+      "nhoodID":82,
+      "nhood":"Russian Hill",
+      "webLink":"http://www.sfgate.com/neighborhoods/sf/russianhill/",
+      "desc":"Russian Hill is directly to the north (and slightly downhill) from Nob Hill, to the south (uphill) from Fisherman's Wharf, and to the west of the North Beach neighborhood. The Hill is bordered on its west side by parts of the neighborhoods of Cow Hollow and the Marina District.",
+      "ttd":"9 minutes",
+      "rent":"$1,836",
+      "walk":98,
+      "transit":84,
+      "bike":68,
+      "arts":[
+         "San Francisco Art Institute",
+         "Modern Eden",
+         "Galileo Academy",
+         "Diego Rivera Gallery",
+         "Busacca Gallery"
+      ],
+      "restaurants":[
+         "Union Larder",
+         "The Soapbox Cafe",
+         "Swensen's Ice Cream",
+         "Seven Hills",
+         "Trattoria Contadina",
+         "Za Pizza",
+         "Curry Leaf"
+      ],
+      "groceries":[
+         "Union Street Produce",
+         "Searchlight Market",
+         "North Beach Farmers Market",
+         "Rialto Mercato",
+         "Sam & Son Market"
+      ],
+      "cafes":[
+         "The Soapbox Cafe",
+         "Beacon Coffee & Pantry",
+         "Fueling Station",
+         "Graffeo Coffee Roasting Co.",
+         "Enter The Cafe"
+      ],
+      "shopping":[
+         "Walgreens",
+         "Wong Chong Kee Watch",
+         "Catseto",
+         "Atelier Des Modistes",
+         "Russian Hill Dog Grooming"
+      ],
+      "nightLife":[
+         "Union Larder",
+         "Barrio",
+         "Noren Izakaya",
+         "Bimbo's 365 Club",
+         "Cobb's Comedy Club",
+         "Bacchus Wine Bar"
+      ],
+      "zipCodes":[
+         "94109"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
    }
 ]
