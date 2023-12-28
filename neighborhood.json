@@ -2885,5 +2885,1247 @@
       "easiestParking":0,
       "mostAffordable":0,
       "nearDowntown":0
+   },
+   {
+      "nhoodID":42,
+      "nhood":"Laguna Honda",
+      "webLink":"http://en.wikipedia.org/wiki/Neighborhoods_in_San_Francisco#Laguna_Honda",
+      "desc":"Laguna Honda is a neighborhood in San Francisco, California with a population of 2,755. Laguna Honda is in San Francisco County and is one of the best places to live in California. Living in Laguna Honda offers residents an urban suburban mix feel and most residents own their homes. In Laguna Honda there are a lot of bars, restaurants, coffee shops, and parks. Many families and retirees live in Laguna Honda and residents tend to be liberal. The public schools in Laguna Honda are highly rated.",
+      "ttd":"27 minutes",
+      "rent":"$2,578",
+      "walk":68,
+      "transit":72,
+      "bike":58,
+      "arts":[
+         "Unicorn Hatchery"
+      ],
+      "restaurants":[
+         ""
+      ],
+      "groceries":[
+         ""
+      ],
+      "cafes":[
+         ""
+      ],
+      "shopping":[
+         ""
+      ],
+      "nightLife":[
+         ""
+      ],
+      "zipCodes":[
+         "94127"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":43,
+      "nhood":"Lake Street",
+      "webLink":"https://www.neighborhoods.com/lake-street-san-francisco-ca",
+      "desc":"Lake Street is a neighborhood in San Francisco, California. Lake Street mostly features midsize homes that are very high value. This community dates back to 1904 and has continued to develop over the years.",
+      "ttd":"20 minutes",
+      "rent":"$2,115",
+      "walk":92,
+      "transit":66,
+      "bike":89,
+      "arts":[
+         ""
+      ],
+      "restaurants":[
+         "Angelina's Deli Cafe"
+      ],
+      "groceries":[
+         ""
+      ],
+      "cafes":[
+         ""
+      ],
+      "shopping":[
+         "Cal's Pet Supply"
+      ],
+      "nightLife":[
+         ""
+      ],
+      "zipCodes":[
+         "94118"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":44,
+      "nhood":"Lakeshore",
+      "webLink":"http://en.wikipedia.org/wiki/Neighborhoods_in_San_Francisco#Lakeshore",
+      "desc":"The Lakeshore district is bounded by Sloat Blvd, 26th Avenue, Gellert Drive and Lake Merced. Lakeshore is west of Stonestown, south of Parkside, west of Lakeside, and east of the Zoo. Lowell High School and Lakeshore Elementary are located in Lakeshore. Lakeshore Plaza is also located here.",
+      "ttd":"23 minutes",
+      "rent":"$3,295",
+      "walk":43,
+      "transit":51,
+      "bike":59,
+      "arts":[
+         "Children's Zoo",
+         "San Francisco Golf Club",
+         "Peace",
+         "Reindeer Exhibit",
+         "The Pink Gown"
+      ],
+      "restaurants":[
+         "Ono Hawaiian BBQ Sf",
+         "Chipotle Mexican Grill",
+         "The Cypress Grill",
+         "Lemur Cafe",
+         "Yuyu Sushi",
+         "Hot Dog Bills"
+      ],
+      "groceries":[
+         "GNC",
+         "Lucky",
+         "Clancy’s Pumpkin Patch"
+      ],
+      "cafes":[
+         "Peet's Coffee and Tea",
+         "Lemur Cafe",
+         "Cafe Playfield"
+      ],
+      "shopping":[
+         "Petco",
+         "Ross Dress for Less",
+         "Lakeshore Plaza",
+         "Verizon Authorized Retailer – Victra",
+         "Big 5 Sporting Goods",
+         "Bay Appliance Repair",
+         "Visionarium Optometry"
+      ],
+      "nightLife":[
+         ""
+      ],
+      "zipCodes":[
+         "94132"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":45,
+      "nhood":"Laurel Heights-Jordan Park",
+      "webLink":"https://www.compass.com/neighborhood-guides/sf/Jordan-Park-Laurel-Heights/",
+      "desc":"A quiet neighborhood that mimics Pacific Heights with its style and gorgeous historical homes, Jordan Park / Laurel Heights has a distinctly suburban feel that’s convenient to the rest of beloved San Francisco.",
+      "ttd":"17 minutes",
+      "rent":"$2,352",
+      "walk":96,
+      "transit":70,
+      "bike":79,
+      "arts":[
+         "San Francisco Fire"
+      ],
+      "restaurants":[
+         "Tofino Wines",
+         "Sun Stream Coffee",
+         "Artesano",
+         "Derm Restaurant",
+         "Sweet things",
+         "Earth's Coffee",
+         "Native Burger",
+         "Vixi Cucina Italiana",
+         "Pancho's Salsa Bar & Grill",
+         "Cup & Cake Cafe",
+         "Susie Cakes"
+      ],
+      "groceries":[
+         "TradersJoe's",
+         "Bryan's Market",
+         "Cal-Mart Supermarket",
+         "Antonelli's Meat",
+         "Fish & Poultry",
+         "Wine Impression"
+      ],
+      "cafes":[
+         "Sun Stream Coffee",
+         "Starbucks",
+         "Earth's Coffee",
+         "Peet's Coffee & Tea",
+         "Cup & Cake Cafe"
+      ],
+      "shopping":[
+         "Books",
+         "Sephora",
+         "CVS Pharmacy",
+         "Mattress Firm",
+         "Walgreens",
+         "Mancini's Sleepworld",
+         "Bluemercury",
+         "GapKids",
+         "Geary Print Shop",
+         "ClickAway Verizon"
+      ],
+      "nightLife":[
+         "Tofino Wines",
+         "Native Burger"
+      ],
+      "zipCodes":[
+         "94118"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":46,
+      "nhood":"Little Hollywood",
+      "webLink":"http://en.wikipedia.org/wiki/Neighborhoods_in_San_Francisco#Little_Hollywood",
+      "desc":"Little Hollywood is a small neighborhood in the southeastern edge of San Francisco. It is centered around Blanken Avenue between Bayshore Boulevard and U.S. Route 101. Little Hollywood Park is located on Lathrop Avenue, and the Bayshore Caltrain station is just south of the neighborhood, on Tunnel Avenue.",
+      "ttd":"19 minutes",
+      "rent":"$2,196",
+      "walk":64,
+      "transit":68,
+      "bike":54,
+      "arts":[
+         "Art At The Dump"
+      ],
+      "restaurants":[
+         "Bayside Coffee Shop",
+         "Piccolo Pete Liquor and Deli"
+      ],
+      "groceries":[
+         ""
+      ],
+      "cafes":[
+         "Bayside Coffee Shop"
+      ],
+      "shopping":[
+         ""
+      ],
+      "nightLife":[
+         ""
+      ],
+      "zipCodes":[
+         "94134"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":47,
+      "nhood":"Lone Mountain",
+      "webLink":"http://en.wikipedia.org/wiki/Lone_Mountain,_San_Francisco,_California",
+      "desc":"Lone Mountain is a neighborhood and a historic hill in west-central San Francisco, California. It is the present-site of the northern half of the University of San Francisco's main campus. It was once the location of the Lone Mountain Cemetery, a complex encompassing the Laurel Hill, Calvary, Masonic, and Odd Fellows Cemeteries.",
+      "ttd":"20 minutes",
+      "rent":"$1,838",
+      "walk":92,
+      "transit":71,
+      "bike":79,
+      "arts":[
+         "Family Billiards",
+         "Manresa Gallery"
+      ],
+      "restaurants":[
+         "Fifty/Fifty",
+         "The Velo Rouge Cafe",
+         "Mel's Drive In",
+         "Pig & Whistle Bar",
+         "Family Billiards",
+         "Grand Hot Pot Lounge",
+         "Kaiju Heats",
+         "SQwers Izakaya & Sushi Bar",
+         "Mo'z Cafe-Masonic AV",
+         "THai Cafe",
+         "Round Table Pizza",
+         "Royal Ground Coffee",
+         "Okina Sushi",
+         "Rooster & Rice",
+         "The House Hummus"
+      ],
+      "groceries":[
+         "Arguello Supermarket",
+         "BevMo!"
+      ],
+      "cafes":[
+         "Fifty/Fifty",
+         "Mo'z Cafe-Masonic AV",
+         "Royal Ground Coffee"
+      ],
+      "shopping":[
+         "San Francyclo",
+         "T-Mobile",
+         "AT&T Store",
+         "Sunny Market",
+         "Bedroom Outlet",
+         "Advantage Appliance"
+      ],
+      "nightLife":[
+         "Pig & Whistle Bar",
+         "Family Billiards",
+         "Evil League of Evil",
+         "The  Parina Lounge"
+      ],
+      "zipCodes":[
+         "94118"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":48,
+      "nhood":"Lower Haight",
+      "webLink":"http://en.wikipedia.org/wiki/Lower_Haight,_San_Francisco,_California",
+      "desc":"Referred to as \"Pine Valley\" in the 70s because of all the pine trees, the Lower Haight lies generally along Haight Street east of Divisadero Street, and between Oak Street (or Fell Street) on the north, and Duboce Avenue (or Waller Street) on south. The eastern boundary is variously placed at Webster Street, Laguna Street, or even Market Street.",
+      "ttd":"14 minutes",
+      "rent":"$2,215",
+      "walk":98,
+      "transit":92,
+      "bike":84,
+      "arts":[
+         "The Center SF",
+         "Molotov's",
+         "Underground SF",
+         "Haight Street Art Center",
+         "Three Ravens",
+         "Spacious Maven"
+      ],
+      "restaurants":[
+         "Rich Table",
+         "Otoro Sushi",
+         "Otra",
+         "Toronado",
+         "San Francisco Wine & Cheese",
+         "Tea & Others",
+         "The Little Chihuahua",
+         "Fort Point Lower Haight",
+         "Palmyra",
+         "Powder",
+         "Maven",
+         "Espetus",
+         "Noc Noc",
+         "Kibatsu",
+         "Choux Bakery",
+         "Uva Enoteca",
+         "Purple Rice",
+         "Perilla",
+         "Memphie Minnies BBQ",
+         "Kate's Kitchen",
+         "KitTea",
+         "Wings Wings",
+         "Yh-Beijing",
+         "Cafe International",
+         "Nara Restaurant"
+      ],
+      "groceries":[
+         "Nick's Supermarket",
+         "Oak Gourmet",
+         "Santa Clara Natural",
+         "Oak Fair Market",
+         "O'Looney's Market",
+         "Key Food Market",
+         "Haight Filmore Whole Foods",
+         "Sunrise Market",
+         "Greehearts Family Farm"
+      ],
+      "cafes":[
+         "The Center SF",
+         "KitTea",
+         "Cafe International",
+         "Souvenir Coffee",
+         "Sidewalk Juice",
+         "That's My Jam"
+      ],
+      "shopping":[
+         "Rooky Ricardo's Records",
+         "Upper Playground",
+         "4x5 Gallery/Glass",
+         "Jack's Record Cellar",
+         "Vinyl Dreams",
+         "Wild Feather",
+         "Groove Merchant",
+         "CVS Pharmacy",
+         "Concept Forty-Seven",
+         "City Copy & Print Center",
+         "Sabah House",
+         "Zen Center Bookstore",
+         "San Francyclo",
+         "Gangs of San Francisco",
+         "Hem San Francisco Pop",
+         "Zero Friends",
+         "Digi Goody"
+      ],
+      "nightLife":[
+         "The Center SF",
+         "Toronado",
+         "San Francisco Wine & Cheese",
+         "The Page",
+         "Maven",
+         "Woods Lower Haight",
+         "Noc Noc",
+         "Molotov's Underground SF",
+         "Nickies",
+         "Danny Coyle's",
+         "Peacock Lounge",
+         "Babes on Scott",
+         "Lower Haight",
+         "San Francisco Wrestling"
+      ],
+      "zipCodes":[
+         "94117"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":49,
+      "nhood":"Lower Nob Hill",
+      "webLink":"http://en.wikipedia.org/wiki/Nob_Hill,_San_Francisco",
+      "desc":"Lower Nob Hill is the southern side of Nob Hill, and generally bounded by Geary Street to the south, California Street to the north, Larkin Street to the west, and Powell Street to the east. This area of Nob Hill was rebuilt after the 1906 earthquake as a fireproof multi-story walk-to-work residential area[24] and is considered to be part of Nob Hill. Lower Nob Hill is also home to the first high-rise condominium[25][26] in California. A region of the neighborhood is listed in the National Register of Historic Places as the Lower Nob Hill Apartment Hotel District.[24] The successful nomination was written by architectural historian Anne Buenger Bloomfield[27] in 1991.",
+      "ttd":"7 minutes",
+      "rent":"$1,919",
+      "walk":99,
+      "transit":99,
+      "bike":73,
+      "arts":[
+         "Spoke Art",
+         "Hashimoto Contemporary",
+         "Resolute",
+         "Gauntlet Gallery",
+         "The Regency Ballroom",
+         "Smaart Gallery & Studio",
+         "Marines Memorial",
+         "PanIQ Escape Room",
+         "Geary Club",
+         "Alcazar Theatre",
+         "McTeague's Saloon",
+         "Mayes Oyster House",
+         "Quetzal Interney Cafe",
+         "724 Hookah",
+         "Pineapple Bisto & Bar",
+         "The Lodge",
+         "Social Hall SF",
+         "San Francisco Art Exchange",
+         "Book & Job Gallery",
+         "Bush Street Chateau",
+         "Ramon's Tailor",
+         "721 Lounge",
+         "Look Gallery",
+         "Modern Eden Gallery"
+      ],
+      "restaurants":[
+         "Kuma Sushi + Sake",
+         "Gusto Pinsa Romana",
+         "Del Popolo",
+         "Crostina & Java",
+         "Jane on Larkin",
+         "Liholiho Yacht Club",
+         "Ryoko Restaurant",
+         "Mensho Tokyo",
+         "Bite",
+         "Ben Thai Cafe",
+         "Le Colonial Restaurant",
+         "Tender",
+         "Stookey's Club Moderne",
+         "Lapisara Eatery",
+         "Chisme Cantina",
+         "The Royale",
+         "Tacorea",
+         "Rye",
+         "Pearl's Deluxe Burgers",
+         "Resolute",
+         "Miller's Rest",
+         "Cocobang",
+         "Angel Cafe & Deli",
+         "Jones",
+         "Ace's"
+      ],
+      "groceries":[
+         "Food & Liquor World",
+         "New India Bazaar Indian",
+         "The Vitamin Shoppe",
+         "Sutter Fine Foods",
+         "Salama Halal Meat",
+         "Yogi Food Market",
+         "U N Market",
+         "Crown Market & Liquor",
+         "S& B Grocery & Liquor Store",
+         "Green Apple Market",
+         "Salem Grocery",
+         "Geary & Hyde Market",
+         "Town & Country Market",
+         "Mid-City Foods",
+         "Round The Clock",
+         "Polk Street Produce",
+         "GNC"
+      ],
+      "cafes":[
+         "Gusto Pinsa Romana",
+         "Crostini & Java",
+         "Jane on Larkin",
+         "Angel Cafe & Deli",
+         "Milkbean",
+         "Farm:Table",
+         "The Morning Fix",
+         "Golden Coffee Shop",
+         "Batter Bakery",
+         "Crepes Ooh La la",
+         "Han's Coffee Shop",
+         "Cup-A-Joe Coffee House",
+         "Smmy's Cafe",
+         "Cafe Bean",
+         "Starbucks",
+         "Wing Lum CafePeet's Coffee & Tea",
+         "Mongol cafe"
+      ],
+      "shopping":[
+         "Grass roots",
+         "Utsuwa Floral Design",
+         "Kayo Books",
+         "The Magazine",
+         "Looksie",
+         "Walgreens",
+         "Legion",
+         "Sportique",
+         "Em Deli & Catering",
+         "T-Mobile",
+         "Leftovers",
+         "Goodwill Headquarters",
+         "3D Bikefit",
+         "Argonaut Book Shop",
+         "The Natural Mattress Store",
+         "Ocean Aquarium",
+         "In Fiore",
+         "The Floral Designer",
+         "Ebikelane",
+         "Handsome Oxford",
+         "Alcatraz Gifts & Tours",
+         "Buy Sell Loan"
+      ],
+      "nightLife":[
+         "Peacekeeper",
+         "Tender",
+         "Stookey's Club Moderne",
+         "The Royale",
+         "Rye",
+         "Resolute",
+         "Miller's Rest",
+         "Propagation",
+         "Jones",
+         "Ace's",
+         "Bar 587",
+         "Upcider",
+         "Jackalope",
+         "YamaSho",
+         "The Mortimer",
+         "Matador",
+         "Geary Club",
+         "Edinburgh Castle",
+         "R Bar",
+         "The European",
+         "Sutter Pub",
+         "Level III",
+         "Tonic Bar",
+         "McTeague's Saloon",
+         "Mayes Oyster House"
+      ],
+      "zipCodes":[
+         "94108",
+         "94109",
+         "94133"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":1
+   },
+   {
+      "nhoodID":50,
+      "nhood":"Lower Pacific Heights",
+      "webLink":"http://en.wikipedia.org/wiki/Lower_Pacific_Heights,_San_Francisco,_California",
+      "desc":"Lower Pacific Heights is located between Pine Street on the north and Geary Boulevard on the south. The area borders Japantown to the east, the Western Addition to the south, Pacific Heights to the north and Laurel Heights to the west.",
+      "ttd":"14 minutes",
+      "rent":"$2,255",
+      "walk":97,
+      "transit":74,
+      "bike":81,
+      "arts":[
+         "Boom Boom Room",
+         "The 9:20 Special",
+         "Osaka Castle"
+      ],
+      "restaurants":[
+         "Roam Artisan Burgers",
+         "La Boulangerie de San Francisco",
+         "Sweet Maple",
+         "Opa Market",
+         "Cheese Steak Shop",
+         "SPQR",
+         "The City Taqueria",
+         "San Francisco Athletic Club",
+         "Presidio Pizza Company",
+         "Tony's Cable Car Restaurant",
+         "Florio Bar & Cafe",
+         "My Ivy",
+         "Godzila Sushi",
+         "The Fishbowl Bar & Grill",
+         "El Burrito Express 2",
+         "Cool Cravings",
+         "Yum Yum Hunan",
+         "Zazang Korean Noodle",
+         "Pete's Deli & Cafe",
+         "Cafe Murano",
+         "My Father's Kitchen",
+         "Subway",
+         "Pride of the Mediterranean"
+      ],
+      "groceries":[
+         "Spice Ace",
+         "Stewart's Grocery",
+         "Pacific Food Mart",
+         "WC Liquor"
+      ],
+      "cafes":[
+         "Song Tea & ceramics",
+         "Opa Market",
+         "Cool Cravings",
+         "Cafe Murano",
+         "Starbucks",
+         "Les Croissants Cafe",
+         "Kaiser Cafeteria"
+      ],
+      "shopping":[
+         "Paper Source",
+         "Invision Optometry",
+         "Goodman Eye Center",
+         "Kiehl's since 1851",
+         "Walgreens",
+         "Crossroads Trading Co.",
+         "Kaiser Permanente",
+         "Monica's Florist",
+         "Blooming Floral Design",
+         "Divisadero Florist",
+         "Copy.Net",
+         "DUXIANA San Francisco",
+         "Mr BLing Bling",
+         "Nest Maternity",
+         "Smith Clock Co",
+         "Round Medical Supply"
+      ],
+      "nightLife":[
+         "Festa",
+         "Boom Boom Room",
+         "The 9:20 Special",
+         "The Fishbowl Bar & Grill"
+      ],
+      "zipCodes":[
+         "94102",
+         "94109",
+         "94115",
+         "94117"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":1
+   },
+   {
+      "nhoodID":51,
+      "nhood":"Marina District",
+      "webLink":"http://www.sfgate.com/neighborhoods/sf/marina/",
+      "desc":"The Marina District is a neighborhood located in San Francisco, California. The neighborhood sits on the site of the 1915 Panama–Pacific International Exposition, staged after the 1906 San Francisco earthquake to celebrate the reemergence of the city. Aside from the Palace of Fine Arts, all other buildings were demolished to make the current neighborhood. The Marina currently has the highest non-Hispanic white resident percentage of any recognized neighborhood in San Francisco.",
+      "ttd":"16 minutes",
+      "rent":"$2,019",
+      "walk":94,
+      "transit":67,
+      "bike":91,
+      "arts":[
+         ""
+      ],
+      "restaurants":[
+         ""
+      ],
+      "groceries":[
+         ""
+      ],
+      "cafes":[
+         ""
+      ],
+      "shopping":[
+         ""
+      ],
+      "nightLife":[
+         ""
+      ],
+      "zipCodes":[
+         "94123"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":1
+   },
+   {
+      "nhoodID":52,
+      "nhood":"McLaren Park",
+      "webLink":"https://www.neighborhoodscout.com/ca/san-francisco/mclaren-park",
+      "desc":"McLaren Park is a vibrant neighborhood located in southeastern San Francisco, California. Known for its stunning natural beauty, the area offers residents and visitors ample opportunities for outdoor activities, including hiking trails, picnic spots, and breathtaking views of the city. With its diverse community, cultural events, and proximity to other popular neighborhoods, McLaren Park is a hidden gem that combines urban living with a tranquil atmosphere.",
+      "ttd":"23 minutes",
+      "rent":"$1,500",
+      "walk":53,
+      "transit":65,
+      "bike":37,
+      "arts":[
+         ""
+      ],
+      "restaurants":[
+         ""
+      ],
+      "groceries":[
+         ""
+      ],
+      "cafes":[
+         ""
+      ],
+      "shopping":[
+         ""
+      ],
+      "nightLife":[
+         ""
+      ],
+      "zipCodes":[
+         "94134"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":53,
+      "nhood":"Merced Manor",
+      "webLink":"http://en.wikipedia.org/wiki/Neighborhoods_in_San_Francisco#Merced_Manor",
+      "desc":"Merced Manor is a neighborhood in southwestern San Francisco, between Stern Grove and Lake Merced. It is bordered by 19th Avenue (State Route 1) to the east, Sloat Boulevard to the north, 26th Avenue to the west and Eucalyptus Drive to the south. Lowell High School is located on Eucalyptus Drive, and the Merced Manor reservoir is on Sloat between 22nd and 23rd Avenues. The Stonestown Galleria shopping mall and San Francisco State University are both on 19th Avenue to the south of Merced Manor.",
+      "ttd":"29 minutes",
+      "rent":"$3,062",
+      "walk":79,
+      "transit":64,
+      "bike":74,
+      "arts":[
+         "Jean Henry School of Art"
+      ],
+      "restaurants":[
+         "Dinosaur's Vietnamese",
+         "Lucho's",
+         "Shabu House",
+         "Ambrosia Bakery",
+         "Subway",
+         "Villa D'este",
+         "My Cup of Tea",
+         "Jitra Thai Cuisine"
+      ],
+      "groceries":[
+         ""
+      ],
+      "cafes":[
+         "My Cup of Tea",
+         "SimpleTea",
+         "Simple Tea House"
+      ],
+      "shopping":[
+         "Walgreens",
+         "Mystic Gardens",
+         "Delta High End Appliance"
+      ],
+      "nightLife":[
+         ""
+      ],
+      "zipCodes":[
+         "94132"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":54,
+      "nhood":"Midtown Terrace",
+      "webLink":"http://en.wikipedia.org/wiki/Neighborhoods_in_San_Francisco#Midtown_Terrace",
+      "desc":"Midtown Terrace is a neighborhood in central San Francisco, on the western slope of Twin Peaks. Created as a single housing development in the late 1950s. Clarendon Avenue where it joins Twin Peaks Boulevard borders the neighborhood on the north and west. Panorama Drive winds through the neighborhood.",
+      "ttd":"27 minutes",
+      "rent":"$2,194",
+      "walk":49,
+      "transit":69,
+      "bike":43,
+      "arts":[
+         ""
+      ],
+      "restaurants":[
+         ""
+      ],
+      "groceries":[
+         ""
+      ],
+      "cafes":[
+         ""
+      ],
+      "shopping":[
+         ""
+      ],
+      "nightLife":[
+         ""
+      ],
+      "zipCodes":[
+         "94131"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":55,
+      "nhood":"Miraloma Park",
+      "webLink":"http://en.wikipedia.org/wiki/Neighborhoods_in_San_Francisco#Miraloma_Park",
+      "desc":"The Miraloma Park neighborhood is in the central part of San Francisco, between Glen Canyon Park and Mount Davidson. Portola Drive borders Miraloma Park to the north, and the neighborhood of Sunnyside is to the south. Miraloma Playground is located on Omar Way at Rockdale, and Sunnyside Playground is south of Teresita Boulevard near Foerster Street.",
+      "ttd":"23 minutes",
+      "rent":"$3,411",
+      "walk":62,
+      "transit":66,
+      "bike":53,
+      "arts":[
+         "Sota Mainstage"
+      ],
+      "restaurants":[
+         "Pop's Sandwich Shop",
+         "Miraloma Club",
+         "Tower Burger",
+         "Round Table Pizza",
+         "Creighton's American"
+      ],
+      "groceries":[
+         "Mollie Stone's Tower Market",
+         "Tiny B Chocolate"
+      ],
+      "cafes":[
+         "Starbucks",
+         "Creighton's American"
+      ],
+      "shopping":[
+         "CVS Pharmacy"
+      ],
+      "nightLife":[
+         "Miraloma Club"
+      ],
+      "zipCodes":[
+         "94127"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":56,
+      "nhood":"Mission Bay",
+      "webLink":"http://www.sfgate.com/neighborhoods/sf/mission/",
+      "desc":"The Mission Bay neighborhood is built on landfill located on San Francisco Bay south of Townsend Street, east of Interstate 280 and north of Mariposa Street. The new UCSF research campus at Mission Bay is part of the rapid growth of a new neighborhood of office buildings and luxury condominiums being built in an area that was formerly an industrial area dominated by rail yards. The Dogpatch neighborhood lies to the south of it.",
+      "ttd":"17 minutes",
+      "rent":"$3,117",
+      "walk":87,
+      "transit":83,
+      "bike":93,
+      "arts":[
+         "Chase Center Stadium",
+         "Breakfast of Champions",
+         "Lucky Strike",
+         "Sea Lion Statue",
+         "Pier 40"
+      ],
+      "restaurants":[
+         "SPARK Social SF",
+         "New Belgium Taproom",
+         "Spro Coffee Lab",
+         "Casey's Pizza",
+         "Reveille Coffee Co.",
+         "Mission Bay Wine & Cheese",
+         "The RAMP Restaurant",
+         "Dumpling Time Chase",
+         "Tadu Ethiopian Kitchen",
+         "SF Kebab",
+         "Death by Taco",
+         "Senor Sisig",
+         "The Yard at Mission Rock",
+         "Esposto's Delicatessen",
+         "KoJa Kitchen SF Spark",
+         "Stem Kitchen & Garden",
+         "Wicked Star",
+         "Publco Urban Taqueria",
+         "Peasant Pies",
+         "ATwater Tavern",
+         "Tender Greens",
+         "Umami Burger Soma District",
+         "Cafe 24",
+         "Oda Restaurant & Brewery",
+         "Lucky Strike"
+      ],
+      "groceries":[
+         "Gus's Community",
+         "Safeway",
+         "Thrive City Farmers",
+         "San Francisco Wine",
+         "Sarap Shop",
+         "The People Depot"
+      ],
+      "cafes":[
+         "Spro Coffee Lab",
+         "Philz Coffee",
+         "Reveille Coffee Co.",
+         "Blue Bottle Coffee",
+         "Starbucks",
+         "Peet's Coffee & Tea",
+         "Joe The Juice New York",
+         "Happy Lemon",
+         "Bubble Queen",
+         "Taproot",
+         "Equator Coffee",
+         "Flagship Athletic",
+         "Tea Hub"
+      ],
+      "shopping":[
+         "Healthy Spot",
+         "Kaiser Permanente",
+         "Walgreens",
+         "Health System Pharmacy",
+         "Warrior Shop",
+         "Safeway Pharmacy",
+         "Mission Bay Optometry",
+         "Old Navy Headquarters",
+         "Woodland Creature",
+         "Caltrain Bike Station",
+         "Furry Tales",
+         "Tmarketshirt"
+      ],
+      "nightLife":[
+         "Mission Bay Wine & Cheese",
+         "The Ramp Restaurant",
+         "Death by Taco",
+         "The Yard at Mission Rock",
+         "Breakfast of Champions",
+         "The Bar",
+         "Mariposa Hunters Point",
+         "Taproot",
+         "Watering Hole",
+         "Chase Lounge",
+         "Lounge of Avalon"
+      ],
+      "zipCodes":[
+         "94103"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":57,
+      "nhood":"Mission District",
+      "webLink":"https://en.wikipedia.org/wiki/Mission_District,_San_Francisco",
+      "desc":"Named for the 1776-built Mission Dolores, the Mission District is an exuberant, evolving neighborhood with Latino roots and a hipster vibe. Old-school taquerias and eclectic live-music clubs mix with chef-driven eateries and craft cocktail lounges. There are also tattoo parlors, gourmet ice cream shops and Dolores Park, a popular weekend hangout with skyline views. Vibrant murals line streets such as Clarion Alley",
+      "ttd":"18 minutes",
+      "rent":"$3,117",
+      "walk":99,
+      "transit":86,
+      "bike":97,
+      "arts":[
+         "Foreign Cinema",
+         "Alamo Drafthouse New Mission",
+         "The Secret Alley",
+         "Balmy Alley",
+         "Evil Eye",
+         "Gray Area Art & Technology Theater",
+         "ODC Theater",
+         "Public Works"
+      ],
+      "restaurants":[
+         "Sightglass Coffee",
+         "Garden Creamery",
+         "Gus's Community Market",
+         "Arizmendi Bakery",
+         "La Taqueria",
+         "Foreign Cinema",
+         "Shizen"
+      ],
+      "groceries":[
+         "Rainbow Grocery",
+         "Royal Cuckoo Market",
+         "Scarlet Sage Herb",
+         "Sun Fat Seafood Co.",
+         "Gemini Bottle Co",
+         "Samiramis",
+         "See's Candies"
+      ],
+      "cafes":[
+         "Sightglass Coffee",
+         "Arizmendi Bakery",
+         "Stonemill Matcha",
+         "Four Barrel Coffee",
+         "Philz Coffee",
+         "Kahnfections",
+         "Stable Cafe",
+         "Dynamo Donut & Coffee"
+      ],
+      "shopping":[
+         "Heath Ceramics",
+         "Sports Basement",
+         "Alley Cat Books",
+         "The Aesthetic Union",
+         "Needles & Pens",
+         "Valencia Cyclery",
+         "Gravel & Gold",
+         "Opt Optometric"
+      ],
+      "nightLife":[
+         "True Laurel",
+         "Lost Resort",
+         "20 Spot",
+         "Lazy Bear",
+         "The Morris",
+         "Evil Eye",
+         "Wooden Nickel"
+      ],
+      "zipCodes":[
+         "94103",
+         "94110"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":58,
+      "nhood":"Mission Dolores",
+      "webLink":"https://en.wikipedia.org/wiki/Mission_Dolores,_San_Francisco",
+      "desc":"Mission Dolores is the oldest neighborhood in San Francisco and therefore its birthplace. It is named after the Spanish Mission Dolores settlement of 1776, and is a sub-area of the much larger Mission District.",
+      "ttd":"19 minutes",
+      "rent":"$2,228",
+      "walk":99,
+      "transit":96,
+      "bike":92,
+      "arts":[
+         "Roxie Cinema",
+         "Orange Photography",
+         "Blondie's Bar",
+         "Stage Werx",
+         "City Art",
+         "Mission Arcade",
+         "Incline Gallery",
+         "Creativity Explored",
+         "Double Dutch",
+         "The Valencia Room",
+         "Delirium",
+         "Mision Science Workshop",
+         "18 Reasons",
+         "Market Street Railway Mural",
+         "Ersatz Film",
+         "Roxie Theatre",
+         "Artup"
+      ],
+      "restaurants":[
+         "Turner's Kitchen",
+         "Dandelion Chocolate",
+         "Bi-Rite Creamery",
+         "Tartine Bakery",
+         "Thorough Bread",
+         "The Monk's Kettle",
+         "Abv",
+         "Souvla",
+         "Woodhouse Fish Company",
+         "Delfina Pizzeria",
+         "Craftsman & Wolves",
+         "Restaurant Eiji",
+         "Little Star Pizza Valencia",
+         "Deli Rhea",
+         "Limon Rotisserie",
+         "Pakwan Restaurant",
+         "The Beehive",
+         "Dear Inga",
+         "Flour + Water Pizzeria",
+         "I'a Poke",
+         "Picaro Cafe",
+         "Truly Mediterranean",
+         "Kitchen Story",
+         "West of Pecos",
+         "Gai Chicken Rice"
+      ],
+      "groceries":[
+         "Whole Foods",
+         "Church Street Groceteria",
+         "Healthy Spirits Valencia",
+         "F & G Grocery",
+         "Guerrero Market",
+         "Fred's Liquor 7 Delicatessen",
+         "K & D Market",
+         "Spot Lite Market",
+         "Golden Eagle Market",
+         "Hom's Grocery",
+         "Simply Mochi"
+      ],
+      "cafes":[
+         "Dandelion Chocolate",
+         "Tartine Bakery",
+         "Verve Coffee Roasters",
+         "Project Juice",
+         "Foodhall",
+         "Spro Coffeelab",
+         "Morning Due Cafe",
+         "Java Supreme",
+         "House of Maxfield's",
+         "Allegro Coffee Company",
+         "Milk Sf",
+         "Taylor Lane Organic Coffee",
+         "The Chai Cart"
+      ],
+      "shopping":[
+         "Paxton Gate",
+         "Pet Food Express",
+         "Borderlands Books",
+         "Dolores Outpost",
+         "Box Dog Bikes",
+         "Aldea Home",
+         "Ampersand",
+         "Photoworks",
+         "Veo Optics",
+         "DSPTCH",
+         "Bait",
+         "Fiat Lux",
+         "The Balm",
+         "Cary Lane",
+         "Eyedare Optometric",
+         "Crossroads Trading Co.",
+         "Blu Dot",
+         "Betabrand",
+         "Walgreens",
+         "FedEx Office Print & Shipping",
+         "Skunkfunk",
+         "VanMoof",
+         "Norden Living",
+         "Isso San Francisco"
+      ],
+      "nightLife":[
+         "The Monk's Kettle",
+         "Abv",
+         "The Beehive",
+         "Fig & Thistle Market",
+         "500 Club",
+         "Elixir",
+         "Chezchez",
+         "Il Casaro Pizzeria",
+         "Pilsner Inn",
+         "Blondie's Bar",
+         "Stage Werx",
+         "Hideout",
+         "Giordano Bros",
+         "Mission Forward",
+         "Elda",
+         "Dalva",
+         "Kilowatt",
+         "Holy Mountain",
+         "Double Dutch",
+         "San Francisco Brewing Co.",
+         "The Valencia Room",
+         "Delirium",
+         "Aquitaine Wine Bistro",
+         "Aquitaine"
+      ],
+      "zipCodes":[
+         "94114"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":59,
+      "nhood":"Mission Terrace",
+      "webLink":"http://en.wikipedia.org/wiki/Neighborhoods_in_San_Francisco#Mission_Terrace",
+      "desc":"Mission Terrace is a neighborhood in the south-central part of San Francisco. It is bounded on the north and west by Interstate 280, to the east by Mission St. and to the south by Geneva Ave. Mission Terrace borders Glen Park and Bernal Heights to the north, Excelsior to the east, Outer Mission to the south, and Sunnyside, City College, and Ingleside to the west. Balboa Park and the Balboa Park Station are located in its southwest corner.",
+      "ttd":"20 minutes",
+      "rent":"$1,768",
+      "walk":87,
+      "transit":84,
+      "bike":71,
+      "arts":[
+         
+      ],
+      "restaurants":[
+         "Pampanguena Cuisine",
+         "Sweet Delight Bakery",
+         "Sliver Cafe",
+         "Tasty coffee",
+         "Hwaro",
+         "Zabb Cuisine",
+         "KFC",
+         "Taco Bell",
+         "Recovery room",
+         "Balboa Ice Cream",
+         "Deli World",
+         "Ann's Doughnut Coffee Shop",
+         "Golden State Grill",
+         "Quickly"
+      ],
+      "groceries":[
+         "Roxie Food Center",
+         "Red Sea Market",
+         "Manila Oriental Market"
+      ],
+      "cafes":[
+         "Silver Cafe",
+         "Tasty Coffee",
+         "Ann's Doughnut Coffee Shop",
+         "Quickly"
+      ],
+      "shopping":[
+         "The Green Cross",
+         "Central Drug Store",
+         "Metro by T-Mobile"
+      ],
+      "nightLife":[
+         "Recovery Room"
+      ],
+      "zipCodes":[
+         "94112"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
+   },
+   {
+      "nhoodID":60,
+      "nhood":"Monterey Heights",
+      "webLink":"http://en.wikipedia.org/wiki/Neighborhoods_in_San_Francisco#Monterey_Heights",
+      "desc":"Monterey Heights is a small neighborhood on the western slope of Mount Davidson. It is bounded on the south by Monterey Boulevard and to the east by Yerba Buena Avenue.",
+      "ttd":"23 minutes",
+      "rent":"$1,632",
+      "walk":66,
+      "transit":68,
+      "bike":50,
+      "arts":[
+         
+      ],
+      "restaurants":[
+         
+      ],
+      "groceries":[
+         
+      ],
+      "cafes":[
+         
+      ],
+      "shopping":[
+         
+      ],
+      "nightLife":[
+         
+      ],
+      "zipCodes":[
+         "94127"
+      ],
+      "easiestParking":0,
+      "mostAffordable":0,
+      "nearDowntown":0
    }
 ]
